@@ -1,0 +1,292 @@
+<resources>
+
+    <string-array name="pref_buffer_choices">
+        <item>@string/pref_buffer_choice_main</item>
+        <item>@string/pref_buffer_choice_events</item>
+        <item>@string/pref_buffer_choice_radio</item>
+    </string-array>
+
+    <string-array name="pref_buffer_choice_values">
+        <item>@string/pref_buffer_choice_main_value</item>
+        <item>@string/pref_buffer_choice_events_value</item>
+        <item>@string/pref_buffer_choice_radio_value</item>
+    </string-array>
+
+    <string-array name="pref_theme_choices_values">
+        <item>@string/pref_theme_choice_dark_value</item>
+        <item>@string/pref_theme_choice_light_value</item>
+        <item>@string/pref_theme_choice_android_value</item>
+        <item>@string/pref_theme_choice_verizon_value</item>
+        <item>@string/pref_theme_choice_att_value</item>
+        <item>@string/pref_theme_choice_sprint_value</item>
+        <item>@string/pref_theme_choice_tmobile_value</item>
+    </string-array>
+
+    <string-array name="pref_theme_choices_names">
+        <item>@string/pref_theme_choice_dark_name</item>
+        <item>@string/pref_theme_choice_light_name</item>
+        <item>@string/pref_theme_choice_android_name</item>
+        <item>@string/pref_theme_choice_verizon_name</item>
+        <item>@string/pref_theme_choice_att_name</item>
+        <item>@string/pref_theme_choice_sprint_name</item>
+        <item>@string/pref_theme_choice_tmobile_name</item>
+    </string-array>
+
+    <string-array name="filter_choices">
+        <item>@string/filter_choice_tag</item>
+        <item>@string/filter_choice_pid</item>
+    </string-array>
+
+    <string-array name="log_levels">
+        <item>@string/log_level_verbose</item>
+        <item>@string/log_level_debug</item>
+        <item>@string/log_level_info</item>
+        <item>@string/log_level_warn</item>
+        <item>@string/log_level_error</item>
+        <item>@string/log_level_wtf</item>
+    </string-array>
+
+    <string-array name="log_levels_values">
+        <item>@string/log_level_value_verbose</item>
+        <item>@string/log_level_value_debug</item>
+        <item>@string/log_level_value_info</item>
+        <item>@string/log_level_value_warn</item>
+        <item>@string/log_level_value_error</item>
+        <item>@string/log_level_value_wtf</item>
+    </string-array>
+
+    <string-array name="text_size_values">
+        <item>@string/text_size_xsmall_value</item>
+        <item>@string/text_size_small_value</item>
+        <item>@string/text_size_medium_value</item>
+        <item>@string/text_size_large_value</item>
+        <item>@string/text_size_xlarge_value</item>
+    </string-array>
+
+    <string-array name="text_sizes">
+        <item>@string/text_size_xsmall_name</item>
+        <item>@string/text_size_small_name</item>
+        <item>@string/text_size_medium_name</item>
+        <item>@string/text_size_large_name</item>
+        <item>@string/text_size_xlarge_name</item>
+    </string-array>
+
+
+    <integer-array name="dark_theme_colors">
+        <item>@color/tag_color_01</item>
+        <item>@color/tag_color_02</item>
+        <item>@color/tag_color_03</item>
+        <item>@color/tag_color_04</item>
+        <item>@color/tag_color_05</item>
+        <item>@color/tag_color_06</item>
+        <item>@color/tag_color_07</item>
+        <item>@color/tag_color_08</item>
+        <item>@color/tag_color_09</item>
+        <item>@color/tag_color_10</item>
+        <item>@color/tag_color_11</item>
+        <item>@color/tag_color_12</item>
+        <item>@color/tag_color_13</item>
+        <item>@color/tag_color_14</item>
+        <item>@color/tag_color_15</item>
+        <item>@color/tag_color_16</item>
+        <item>@color/tag_color_17</item>
+    </integer-array>
+
+    <integer-array name="light_theme_colors">
+        <item>@color/light_tag_color_01</item>
+        <item>@color/light_tag_color_02</item>
+        <item>@color/light_tag_color_03</item>
+        <item>@color/light_tag_color_04</item>
+        <item>@color/light_tag_color_05</item>
+        <item>@color/light_tag_color_06</item>
+        <item>@color/light_tag_color_07</item>
+        <item>@color/light_tag_color_08</item>
+        <item>@color/light_tag_color_09</item>
+        <item>@color/light_tag_color_10</item>
+        <item>@color/light_tag_color_11</item>
+        <item>@color/light_tag_color_12</item>
+        <item>@color/light_tag_color_13</item>
+        <item>@color/light_tag_color_14</item>
+        <item>@color/light_tag_color_15</item>
+        <item>@color/light_tag_color_16</item>
+        <item>@color/light_tag_color_17</item>
+    </integer-array>
+
+    <integer-array name="android_theme_colors">
+        <item>@color/android_theme_tag_color_01</item>
+        <item>@color/android_theme_tag_color_02</item>
+        <item>@color/android_theme_tag_color_03</item>
+        <item>@color/android_theme_tag_color_04</item>
+        <item>@color/android_theme_tag_color_05</item>
+        <item>@color/android_theme_tag_color_06</item>
+        <item>@color/android_theme_tag_color_07</item>
+        <item>@color/android_theme_tag_color_08</item>
+        <item>@color/android_theme_tag_color_09</item>
+        <item>@color/android_theme_tag_color_10</item>
+        <item>@color/android_theme_tag_color_11</item>
+        <item>@color/android_theme_tag_color_12</item>
+        <item>@color/android_theme_tag_color_13</item>
+        <item>@color/android_theme_tag_color_14</item>
+        <item>@color/android_theme_tag_color_15</item>
+        <item>@color/android_theme_tag_color_16</item>
+        <item>@color/android_theme_tag_color_17</item>
+    </integer-array>
+
+    <string-array name="settings_cyclecounts">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+    </string-array>
+
+    <string-array name="slimsizer_profile_array">
+        <item>Load Profile</item>
+        <item>Save Profile</item>
+    </string-array>
+
+    <!-- Values for the statistic. -->
+    <string-array name="stats" translatable="false">
+        <item>Other</item>
+        <item>Kernel Wakelock</item>
+        <item>Partial Wakelocks</item>
+        <item>Alarms</item>
+        <item>Network</item>
+        <item>CPU States</item>
+        <item>Process</item>
+
+    </string-array>
+
+    <!--  Values for the preferences -->
+    <string-array name="statLabels">
+        <item>Other</item>
+        <item>Kernel Wakelock</item>
+        <item>Partial Wakelocks</item>
+        <item>Alarms</item>
+        <item>Network</item>
+        <item>CPU States</item>
+        <item>Process</item>
+    </string-array>
+
+    <!--  Values for the preferences -->
+    <string-array name="saveAsLabels">
+        <item>Text Dumpfile</item>
+        <item>JSON Dumpfile</item>
+        <item>logcat</item>
+        <item>dmesg</item>
+
+    </string-array>
+
+    <string-array name="statValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+    <string-array name="statTypeLabels">
+        <item>Since charged</item>
+        <item>Since unplugged</item>
+        <item>Since Custom Ref.</item>
+        <item>Since Screen Off</item>
+        <item>Since Boot</item>
+    </string-array>
+
+    <string-array name="statTypeValues">
+        <item>ref_charged</item>
+        <item>ref_unplugged</item>
+        <item>ref_custom</item>
+        <item>ref_screen_off</item>
+        <item>ref_boot</item>
+    </string-array>
+
+    <string-array name="wlRefLabels">
+        <item>% of time on battery</item>
+        <item>% of time awake</item>
+        <item>% of time awake minus time with screen on</item>
+    </string-array>
+
+    <string-array name="wlRefValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <string-array name="graphBarHeigthLabels">
+        <item>4</item>
+        <item>8</item>
+        <item>*10</item>
+        <item>12</item>
+
+    </string-array>
+    <string-array name="graphBarHeigthValues">
+        <item>4</item>
+        <item>8</item>
+        <item>10</item>
+        <item>12</item>
+    </string-array>
+
+    <string-array name="widgetUpdateFreqLabels">
+        <item>None</item>
+        <item>5 Min.</item>
+        <item>15 Min.</item>
+        <item>*30 Min.</item>
+        <item>60 Min.</item>
+
+    </string-array>
+    <string-array name="widgetUpdateFreqValues">
+        <item>0</item>
+        <item>5</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+
+    <string-array name="orderbyLabels">
+        <item>By time (DESC)</item>
+        <item>By count (DESC)</item>
+    </string-array>
+
+    <string-array name="orderbyValues">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+
+    <string-array name="widgetFontSizeLabels">
+        <item>X-Large (16)</item>
+        <item>Large (14)</item>
+        <item>Normal (12)</item>
+        <item>*Small (10)</item>
+        <item>Tiny (8)</item>
+    </string-array>
+
+    <string-array name="widgetFontSizeValues">
+        <item>16</item>
+        <item>14</item>
+        <item>12</item>
+        <item>10</item>
+        <item>8</item>
+    </string-array>
+
+    <string-array name="wipe_options">
+        <item>@string/backup</item>
+        <item>@string/wipe_system</item>
+        <item>@string/wipe_data</item>
+        <item>@string/wipe_caches</item>
+        <item>@string/fix_permissions</item>
+    </string-array>
+    <string-array name="wipe_options_values" translatable="false">
+        <item>BACKUP</item>
+        <item>WIPESYSTEM</item>
+        <item>WIPEDATA</item>
+        <item>WIPECACHES</item>
+        <item>FIXPERM</item>
+    </string-array>
+
+</resources>
