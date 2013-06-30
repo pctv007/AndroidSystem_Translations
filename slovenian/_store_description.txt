@@ -1,0 +1,65 @@
+Izpod rok razvijalca ROM-a JellyBam in popularne aplikacije Android Tweaker, vam predstavljamo Android System.
+
+*** POSEBNI POPUST 75% CENE DO 5. JULIJA ***
+*** Before leaving a bad review, try to contact us and describe your problem ***
+*** Read the description and take notes on wich app require ROOT ACCESS ***
+
+*** Help us to provide a better translation in your lang! Open translation project https://www.transifex.com/projects/p/android-system/ ***
+
+What is Android System:
+
+Android System is the ultimate Android utility that combines inside over 20 utilities (Currently under development, so more things will be added in the near future)
+
+We are providing 2 version of the app: Free and Pro.
+The free version combines inside some open sources utilities and let you explore what's inside the pro version.
+
+*** WORK IN PROGRESS: ***
+- Adding over 30 translations
+- More tweaks to the tweaker
+- More system tools
+- More things!
+
+*** FREE VERSION: ***
+
+System Tools:
+- MIUI File Explorer with ability to enable root access
+- LogCat allow you to explore system logs
+
+App preferences:
+- Framework installer allow you to install the XPosed framework required for customizing and using the app preferences module. Require root access and busybox
+- Application custom preferences allow you to customize app preferences using Xposed app settings that allow you to customize apps DPI, Layout, font scale and much more. Require the compatible framework installed, root and busybox
+
+System Informations:
+- Benchmarks allow you to detect your device performance such as CPU, I/O, Network speed and more
+- Permissions display in a detailed list all the android permissions and allow you to check wich installed applications use certain permissions. The red marked are the dengerous one!
+- CPU and Kernel spy allow you to check detailed informations about your cpu voltage and kernel related infos
+
+Editors:
+- The build prop editor is an useful tool to manual edit the system build properties. This tool requires root access!
+
+Recovery:
+- Allow you to launch custom recovery action directly from your device. It requires a custom recovery like CWM or TWRP in order to work properly
+
+*** PRO VERSION: ***
+
+Backup:
+- App backup allow you to backup and restore your application data. This tool requires root access and busybox installed
+- Data backup allow you to backup and restore your personal data such as SMS, Call Logs, Bookmarks, Settings etc.
+- Properties backup allow you to backup and restore your system properties files. This tool requires root access
+
+System Optimization:
+- Zipalign application is a task that will optimize all your applications in system and data folder. Zipalign will increase the general performance and reduce the ram usage. This tool requires root access
+- SQL defrag and optimization is a task that optmize your SQL databases such as contacts etc. This tool requires root access
+- Application cache cleaner will clean the apps cache and will free some space on your internal SDCard. This tool requires root access
+
+Tweaker:
+- Combines inside the Android Tweaker PRO tweaks, not yet finished. All the tweaked will be imported into this app as soon as possible. The tweaker requires root access in order to work properly
+
+GPS Tune:
+- Allow you to choose your country and overwrite the default gps config file. GPS Tune requires root access
+
+Uninstaller:
+- This powerful tool allow you to physically remove system applications. This tool requires root access
+
+
+The content of the applications will be increased on each update. We are currently working for providing translations to over 30 languages and on adding more utilities and things that will turn this app into the best system utilities suite for Android!
