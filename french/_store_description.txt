@@ -1,0 +1,57 @@
+Par le développeur de la ROM Jellybam et de la populaire application Android Tweaker, nous vous présentons Android System.
+
+*** RÉDUCTION SPÉCIALE DE 75 % JUSQU'AU 5 JUILLET***
+*** Avant de laisser une critique négative, essayez de nous contacter et décrivez-nous votre problème ***
+*** Lisez la description et prenez note des applications qui requiert un accès ROOT***
+
+*** Aidez nous à fournir une meilleur traduction dans votre langue ! Projet de traduction ouvert à tous : https://www.transifex.com/projects/p/android-system/ ***
+
+Qu'est ce qu'Android System :
+
+Android System est l'ultime utilitaire Android combinant plus de 20 outils (Actuellement en développement, plus de fonctions seront ajoutées dans un futur proche)
+
+Nous donnons accès à 2 versions de l'application : Gratuit et Pro.
+
+*** VERSION GRATUITE : ***
+
+Outils Système :
+- Explorateur de fichiers MIUI avec la possibilité d'activer l'accès ROOT
+- LogCat vous permet d'explorer les logs système
+
+Préférences de l'appli :
+- Framework installer vous permet d'installer Xposed, requis pour customiser et utiliser les modules. Requiert l'accès ROOT et Busybox
+- Application custom preferences vous permet de customiser les applis et de choisir les DPI, dispositions, taille de la police, et bien plus. Requiert un framework compatible, l'accès ROOT et Busybox
+
+Informations systèmes :
+- Benchmarks vous permet de calculer les performances de votre appareil tel que la puissance du CPU, I/O, vitesse de connexion et plus encore 
+- Permissions affiche dans une liste détaillée toutes les permissions Android et vous permets de vérifier quelles applications installées utilisent quelles permissions. Celles marquées en rouge sont dangereuses !
+- CPU and Kernel spy vous permet de vérifier des informations détaillées à propos du voltage du CPU et des informations en rapport avec votre Kernel
+
+Éditeurs :
+- L'éditeur build prop est un outil utile pour éditer manuellement les propriétés du système build prop. Cette outil requiert l’accès ROOT.
+
+Recovery :
+- Vous permet de lancer les actions du Recovery directement depuis votre appareil. Ceci requiert un Recovery, tel que CWM ou TWRP, pour fonctionner correctement
+
+*** VERSION PRO : ***
+
+Sauvegarde :
+- La sauvegarde d'application vous permet la sauvegarde et la restauration des données de vos applications. Cette outils requiert l’accès ROOT et Busybox doit être installé.
+- La sauvegarde des données vous permet la sauvegarde et la restauration de vos données personnelles tel que les SMS, le journal d'appel, Favoris, Paramètres etc...
+- La sauvegarde de propriétés vous permet la sauvegardes et la restaurer de vos propriétés systèmes. Cette outil requiert l’accès ROOT
+
+Optimisations Système :
+- L'application Zipalign est une tâche qui optimisera toutes vos applications dans les dossiers system et data. Cet outil requiert l'accès ROOT
+- SQL defrag and optimization est une tâche qui optimise vos banque de données SQL tel que les contacts, etc. Cet outil requiert l'accès ROOT
+- L'application nettoyeur de cache va nettoyer le cache des applications et libérer de l'espace dans votre SD interne. Cette outil requiert l'accès ROOT
+
+Tweaker :
+Combine les tweaks à l'intérieur d'Android Tweaker PRO,  pas encore terminé. Toutes les améliorations seront importées dans cette application aussi vite que possible. Le tweaker nécessite l'accès ROOT pour fonctionner correctement
+
+Réglage du GPS :
+- Vous permet de choisir votre pays et d'écraser le fichier de configuration du GPS par défaut. Le réglage GPS nécessite l'accès ROOT
+
+Désinstalleur :
+- Ce puissant outil vous permet de physiquement retirer les applications systèmes. Cet outil requiert l'accès ROOT
+
+L'application sera plus fournie à chaque mise à jour. Nous sommes actuellement entrain de travailler pour fournir des traductions pour plus de 30 langages et à ajouter encore plus d'utilitaires et d'outils qui feront de cette application le nec plus ultra des utilitaires pour Android !
