@@ -2,28 +2,28 @@ Izpod rok razvijalca ROM-a JellyBam in popularne aplikacije Android Tweaker, vam
 
 *** POSEBNI POPUST 75% CENE DO 5. JULIJA ***
 *** Preden pustite slabo oceno, nas poskusite kontaktirati in opišite vašo težavo ***
-*** Read the description and take notes on wich app require ROOT ACCESS ***
+*** Preberite opis aplikacije in si zapomnite katera orodja potrebujejo ROOT DOSTOP ***
 
-*** Help us to provide a better translation in your lang! Open translation project https://www.transifex.com/projects/p/android-system/ ***
+*** Pomagajte nam ustvariti boljši prevod v vašem jeziku! Prevajalski projekt je odprt na: https://github.com/BAM-Team/AndroidSystem_Translations ***
 
-What is Android System:
+Kaj je Android System:
 
-Android System is the ultimate Android utility that combines inside over 20 utilities (Currently under development, so more things will be added in the near future)
+Android System je najboljša aplikacija, ki združuje veè kot 20 pripomoèkov za upravljanje vaše naprave (trenutno v fazi razvijanja, zato bo veè stvari dodanih v bližnji prihodnosti)
 
-We are providing 2 version of the app: Free and Pro.
-The free version combines inside some open sources utilities and let you explore what's inside the pro version.
+Na voljo sta vam dve razlièici: brezplaèna in Pro.
+Brezplaèna razlièica združuje nekatere odprtokodne pripomoèke, hkrati pa vam ponudi predogled razlièice Pro.
 
-*** WORK IN PROGRESS: ***
-- Adding over 30 translations
-- More tweaks to the tweaker
-- More system tools
-- More things!
+*** DELA V TEKU: ***
+- Dodajanje veè kot 30 prevodov
+- Veè tweakov
+- Veè sistemskih orodij
+- Veè stvari!
 
-*** FREE VERSION: ***
+*** BREZPLAÈNA RAZLIÈICA: ***
 
-System Tools:
-- MIUI File Explorer with ability to enable root access
-- LogCat allow you to explore system logs
+Sistemska orodja:
+- MIUI Raziskovalec datotek z možnostjo root dostopa
+- LogCat omogoèa brskanje po zapisih sistema
 
 App preferences:
 - Framework installer allow you to install the XPosed framework required for customizing and using the app preferences module. Require root access and busybox
