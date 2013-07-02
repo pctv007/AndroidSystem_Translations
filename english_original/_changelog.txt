@@ -1,0 +1,15 @@
+v2.0.0:
+
+Menù refactor:
+- Added System Customization panel
+- Added About panel
+
+FREE Content:
+- System Tools: Added Anonymous Browser, Allow transparent navigation using TOR and ability to set User-Agent and more...
+- Fixed App preferences module installation
+- Fixed ROOT access call on many utilities
+
+PRO Content (Also included free content changes):
+- System Customization: Added one tap font installer with the 2 method (AOSP Rom and STOCK Rom)
+- More Android Tweakers tweaks!
+- Fixed data backup export
