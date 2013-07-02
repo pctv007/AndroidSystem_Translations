@@ -1,17 +1,16 @@
-Dagli sviluppatori della ROM JellyBam e della popolare applicazione Android Tweaker, siamo lieti di presentarvi Android System
-
 *** IN SCONTO DEL 75% FINO AL 5 LUGLIO ***
 *** Prima di lasciare commenti o recensioni negative vi invitiamo a contattarci via mail per qualsiasi problema ***
-*** Leggere attentamente la descrizione! alcuni tool richiedono accesso ROOT e BUSYBOX ***
 
 *** Aiutaci a fornire una traduzione migliore per l'app https://www.transifex.com/projects/p/android-system/ ***
 
-Che cos'è Android System:
+*** Attenzione: Nella finestra principale dell'applicazione sono descritti nel dettaglio tutti i vari tools utilizzabili con Android System. Leggere attentamenti quali di essi richiedono accesso ROOT e quali no. ***
 
-Android System è un applicazione che racchiude in se oltre 20 utilities (Al momento è sotto costante sviluppo, molte feature verranno aggiunte nel breve tempo)
+Che cos'ï¿½ Android System:
+
+Android System ï¿½ un applicazione che racchiude in se oltre 20 utilities (Al momento ï¿½ sotto costante sviluppo, molte feature verranno aggiunte nel breve tempo)
 
 Android System si presenta in 2 versioni: FREE e PRO
-La versione free rende disponibili alcune utilities Open Source e da la possibilità di esplorare i contenuti della pro
+La versione free rende disponibili alcune utilities Open Source e da la possibilitï¿½ di esplorare i contenuti della pro
 
 *** SU COSA STIAMO LAVORANDO: ***
 - Piu di 30 traduzioni
@@ -22,44 +21,45 @@ La versione free rende disponibili alcune utilities Open Source e da la possibil
 *** VERSIONE FREE: ***
 
 System Tools:
-- MIUI File Explorer con possibilità di abilitare accesso root
-- LogCat ti permette di esplorare i log di sistema
+- MIUI File Explorer con possibilitï¿½ di abilitare accesso root
+- Anonymous browser
+- LogCat
 
 App preferences:
-- Framework installer consente di installare l'XPosed framework necessario per far funzionare correttamente l'Application custom preferences. Richiede accesso root e busybox
-- Application custom preferences ti consente di modificare i DPI, il layout, la dimensione del font e molto altro di ogni singola applicazione. Richiede il framework installato e accesso root e busybox
+- Framework installer consente di installare l'XPosed framework
+- Application custom preferences ti consente di modificare i DPI, il layout, la dimensione del font e molto altro di ogni singola applicazione.
 
 System Informations:
-- Benchmarks ti consente di calcolare le performance del tuo device tra cui: CPU, I/O, Network e molto altro
-- Permissions ti consente di verificare quali applicazioni sfruttano determinati permessi, evidenziando in rosso quelli piu pericolosi.
-- CPU and Kernel spy ti da la possibilità di verificare i voltaggi della cpu e consultare informazioni inerenti al kernel.
+- Benchmarks tra cui: CPU, I/O, Network e molto altro
+- Permissions
+- CPU and Kernel spy
 
 Editors:
-- Il build prop editor è un tool che ti consente di modificare velocemente le varie proprietà di sistema. Richiede accesso root.
+- Build prop editor
 
 Recovery:
-- Ti consente di lanciare azioni recovery direttamente dall'app. Richiede una recovery compatibile come CWM o TWRP.
+- Ti consente di lanciare azioni recovery direttamente dall'app
 
 *** PRO VERSION: ***
 
 Backup:
-- App backup ti consente di effettuare backup e restore dei dati delle applicazioni (Come ad esempio alcune app fanno quali Titanium Backup). Richiede accesso root.
-- Data backup ti consente di effettuare backup e restore dei tuoi dati personali quali SMS, Registro chiamate, Preferiti e Impostazioni varie.
-- Properties backup ti consente invece di effettuare backup e restore dei file di sistema. Richiede accesso root.
+- App backup
+- Data backup
+- Properties backup
 
 System Optimization:
-- Zipalign application è un processo di ottimizzazione delle applicazioni. Una volta effettuato, le applicazioni consumeranno meno RAM e saranno piu performanti. Richiede accesso root.
-- SQL defrag e optimization è un processo che ottimizza e deframmente i tuoi database SQL. Richiede accesso root.
-- Application cache cleaner pulisce la cache delle applicazioni e ti consente di liberare spazio nella partizione interna. Richiede accesso root.
+- Zipalign application 
+- SQL defrag e optimization
+- Application cache cleaner
 
 Tweaker:
-- Il tweaker combina tutti i vari tweak proposti in Android Tweaker. Richiede accesso root.
+- Il tweaker combina tutti i vari tweak proposti in Android Tweaker
 
 GPS Tune:
-- Ti consente di ridurre notevolmente i tempi di aggancio del GPS facendoti installare una configurazione ideale per la tua nazione. Richiede accesso root.
+- Ti consente di ridurre notevolmente i tempi di aggancio del GPS facendoti installare una configurazione ideale per la tua nazione
 
 Uninstaller:
-- Questo potente strumento ti consente di disinstallare con facilità le applicazioni di sistema. Da usare con cura! Richiede accesso root.
+- Questo potente strumento ti consente di disinstallare con facilitï¿½ le applicazioni di sistema.
 
 
-Il contenuto dell'applicazione verrà aggiornato molto frequentemente. Stiamo lavorando per apportare molte modifiche tra cui traduzioni e nuovi strumenti!
+Il contenuto dell'applicazione verrï¿½ aggiornato molto frequentemente. Stiamo lavorando per apportare molte modifiche tra cui traduzioni e nuovi strumenti!
