@@ -359,8 +359,6 @@
 
     <!-- Tweaker -->
     <string name="str_generalbattery">General Battery Saver Tweaks</string>
-
-    <!-- BATTERY TAB -->
     <string name="str_incwifi">Increase WiFi scan interval</string>
     <string name="str_incwifidesc">This tweak will set the WIFI scan interval to 180 seconds instead
         of the default 60
@@ -386,8 +384,6 @@
     </string>
     <string name="str_enmediascanner">Re-Enable Media Scanner</string>
     <string name="str_dismediascanner">Disable Media Scanner</string>
-
-    <!-- PERFORMANCE TAB -->
     <string name="str_generaltitle">General Performance Tweaks</string>
     <string name="str_forcegpu">Force Render UI with GPU</string>
     <string name="str_forcegpudesc">Relieves pressure on CPU</string>
@@ -416,8 +412,6 @@
     <string name="str_minfreedesc">Tune your MultiTasking</string>
     <string name="str_vmperf">VM management tweak</string>
     <string name="str_vmperfdesc">Enhance Virtual Memory management with performance values</string>
-
-    <!-- GPS TAB -->
     <string name="str_gpsdesc">GPS Configuration</string>
     <string name="str_gpsintro">If your country is not listed, select only the continent</string>
     <string name="str_continents">Continents</string>
@@ -427,6 +421,33 @@
     <string name="str_oceanian">Oceanian Countries</string>
     <string name="str_namerican">North American Countries</string>
     <string name="str_samerican">South American Countries</string>
+    <string name="str_signaltitle">Signal Tweaks</string>
+    <string name="str_hsxpacat">Increase HSXPA category</string>
+    <string name="str_hsdpacat">Increase HSDPA category</string>
+    <string name="str_hsupacat">Increase HSUPA category</string>
+    <string name="str_gprscat">Increase GPRSclass category</string>
+    <string name="str_enhep">Enable HEP</string>
+    <string name="str_endtm">Enable DTM</string>
+    <string name="str_ena52">Enable a52</string>
+    <string name="str_en3gpref">Enable 3G prefix</string>
+    <string name="str_inchtc1">Increase HTCMASKW1</string>
+    <string name="str_inchtc2">Increase HTCMASKW1 bitmask</string>
+    <string name="str_enagps">Enable AGPS</string>
+    <string name="str_engea3">Enable GEA3</string>
+    <string name="str_enplmn">Enable PLMN prefix</string>
+    <string name="str_netspeedtitle">Net Speed Tweaks</string>
+    <string name="str_defnetspeed">Increase default net speed</string>
+    <string name="str_wifinetspeed">Increase WiFi net speed</string>
+    <string name="str_umtsspeed">Increase UMTS net speed</string>
+    <string name="str_gprsspeed">Increase GPRS net speed</string>
+    <string name="str_edgespeed">Increase EDGE net speed</string>
+    <string name="str_ltespeed">Increase LTE net speed</string>
+    <string name="str_evdospeed">Increase EVDO_B net speed</string>
+    <string name="str_hspaspeed">Increase HSPA net speed</string>
+    <string name="str_hsdpaspeed">Increase HSDPA net speed</string>
+    <string name="str_ipv4">IPV4 and TCP speed tweaks</string>
+    <string name="str_gdns">Enable Google DNS</string>
+    <string name="str_gdnsdesc">Among the many benefits that you have by using these DNS, one of the greatest is the ability to display all of those sites that are currently blocked and obscured in your country</string>
 
     <!-- prop editor -->
     <string name="add_prop">Add Property</string>
