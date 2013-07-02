@@ -1,5 +1,83 @@
 <resources>
 
+    <string-array name="cookiePreferences"><item>Accept all cookies</item>
+    <item>Only accept whitelisted cookies</item>
+    <item>Block all cookies</item>
+</string-array>
+    <string-array name="cookiePreferencesValues"><item>accept</item>
+        <item>whitelist</item>
+        <item>block</item>
+    </string-array>
+    <string-array name="userAgents"><item>Android</item>
+        <item>iPhone</item>
+        <item>Nokia</item>
+        <item>Blackberry</item>
+        <item>Firefox</item>
+        <item>I.E.</item>
+    </string-array>
+    <string-array name="userAgentValues">
+        <item>Mozilla/5.0 (Linux; U; Android 2.3; en-us; GT-I9100 Build/GRH78) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1</item>
+        <item>Mozilla/5.0 (iPhone; U; CPU iPhone OS 3 1 2 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Mobile/7D11</item>
+        <item>Mozilla/5.0 (SymbianOS/9.1; U; [en-us]) AppleWebKit/413 (KHTML, like Gecko) Safari/413</item>
+        <item>BlackBerry9000/5.0.0.93 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/179</item>
+        <item>Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.1.7) Gecko/20091221 Firefox/3.5.7</item>
+        <item>Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0)</item>
+    </string-array>
+    <string-array name="languages">
+        <item>Default</item>
+        <item>English</item>
+        <item>Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©</item>
+        <item>Ù¾Ø§Ø±Ø³ÛŒ</item>
+        <item>ä¸­æ–‡(ç®€ä½“)</item>
+        <item>Dansk</item>
+        <item>Deutsche</item>
+        <item>EspaÃ±ol</item>
+        <item>Esperanto</item>
+        <item>FranÃ§ais</item>
+        <item>Italian</item>
+        <item>Nederlands</item>
+        <item>Magyar</item>
+        <item>Norwegian BokmÃ¥l</item>
+        <item>Polski</item>
+        <item>PortuguÃªs</item>
+        <item>PortuguÃªs Brasileiro</item>
+        <item>Ñ€ÑƒÑÑÐºÐ¸Ð¹</item>
+        <item>SlovenÄina</item>
+        <item>Swedish</item>
+        <item>Tibetan à½–à½¼à½‘à¼‹à½¦à¾à½‘à¼</item>
+        <item>Tiáº¿ng Viá»‡t</item>
+        <item>TÏ‹rkÃ§e</item>
+        <item>ÄŒeÅ¡tina</item>
+        <item>ÎµÎ»Î»Î·Î½Î¹ÎºÎ¬</item>
+    </string-array>
+    <string-array name="languages_values">
+        <item>xx</item>
+        <item>en</item>
+        <item>ar</item>
+        <item>fa</item>
+        <item>zh</item>
+        <item>da</item>
+        <item>de</item>
+        <item>es</item>
+        <item>eo</item>
+        <item>fr</item>
+        <item>it</item>
+        <item>nl</item>
+        <item>hu</item>
+        <item>nb_NO</item>
+        <item>pl</item>
+        <item>pt</item>
+        <item>pt_BR</item>
+        <item>ru</item>
+        <item>sk</item>
+        <item>sv</item>
+        <item>bo</item>
+        <item>vi</item>
+        <item>tr</item>
+        <item>cs</item>
+        <item>el</item>
+    </string-array>
+
     <string-array name="pref_buffer_choices">
         <item>@string/pref_buffer_choice_main</item>
         <item>@string/pref_buffer_choice_events</item>

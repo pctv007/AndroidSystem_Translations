@@ -2,9 +2,10 @@ From the developer of the ROM JellyBam and the popular Android Tweaker app, here
 
 *** SPECIAL DISCOUNT PRICE 75% TILL 5 JULY ***
 *** Before leaving a bad review, try to contact us and describe your problem ***
-*** Read the description and take notes on wich app require ROOT ACCESS ***
 
 *** Help us to provide a better translation in your lang! Open translation project https://www.transifex.com/projects/p/android-system/ ***
+
+*** Attenction: in the main app screen we provided detailed informations about all the app content! read carefully what requires or not requires ROOT ACCESS ***
 
 What is Android System:
 
@@ -23,43 +24,46 @@ The free version combines inside some open sources utilities and let you explore
 
 System Tools:
 - MIUI File Explorer with ability to enable root access
-- LogCat allow you to explore system logs
+- LogCat
 
 App preferences:
-- Framework installer allow you to install the XPosed framework required for customizing and using the app preferences module. Require root access and busybox
-- Application custom preferences allow you to customize app preferences using Xposed app settings that allow you to customize apps DPI, Layout, font scale and much more. Require the compatible framework installed, root and busybox
+- Framework installer allow you to install the XPosed framework
+- Application custom preferences allow you to customize app preferences using Xposed app settings
 
 System Informations:
-- Benchmarks allow you to detect your device performance such as CPU, I/O, Network speed and more
-- Permissions display in a detailed list all the android permissions and allow you to check wich installed applications use certain permissions. The red marked are the dengerous one!
-- CPU and Kernel spy allow you to check detailed informations about your cpu voltage and kernel related infos
+- Benchmarks such as CPU, I/O, Network speed and more
+- Permissions 
+- CPU and Kernel spy
 
 Editors:
-- The build prop editor is an useful tool to manual edit the system build properties. This tool requires root access!
+- Build prop editor
 
 Recovery:
-- Allow you to launch custom recovery action directly from your device. It requires a custom recovery like CWM or TWRP in order to work properly
+- Allow you to launch custom recovery action directly from your device
 
 *** PRO VERSION: ***
 
+System Customization:
+- Custom font installer
+
 Backup:
-- App backup allow you to backup and restore your application data. This tool requires root access and busybox installed
-- Data backup allow you to backup and restore your personal data such as SMS, Call Logs, Bookmarks, Settings etc.
-- Properties backup allow you to backup and restore your system properties files. This tool requires root access
+- App backup 
+- Data backup 
+- Properties backup
 
 System Optimization:
-- Zipalign application is a task that will optimize all your applications in system and data folder. Zipalign will increase the general performance and reduce the ram usage. This tool requires root access
-- SQL defrag and optimization is a task that optmize your SQL databases such as contacts etc. This tool requires root access
-- Application cache cleaner will clean the apps cache and will free some space on your internal SDCard. This tool requires root access
+- Zipalign application
+- SQL defrag and optimization
+- Application cache cleaner
 
 Tweaker:
-- Combines inside the Android Tweaker PRO tweaks, not yet finished. All the tweaked will be imported into this app as soon as possible. The tweaker requires root access in order to work properly
+- Combines inside the Android Tweaker PRO tweaks, not yet finished.
 
 GPS Tune:
-- Allow you to choose your country and overwrite the default gps config file. GPS Tune requires root access
+- Allow you to choose your country and overwrite the default gps config file.
 
 Uninstaller:
-- This powerful tool allow you to physically remove system applications. This tool requires root access
+- This powerful tool allow you to physically remove system applications.
 
 
 The content of the applications will be increased on each update. We are currently working for providing translations to over 30 languages and on adding more utilities and things that will turn this app into the best system utilities suite for Android!

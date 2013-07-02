@@ -18,39 +18,83 @@
     <string name="pro">Pro version</string>
 
     <string name="pro_warn_title">PRO Feature</string>
-    <string name="pro_warn_msg">This feature is available only in the PRO version of Android System</string>
+    <string name="pro_warn_msg">This feature is available only in the PRO version of Android
+        System
+    </string>
     <string name="pro_go_to_market">Play Store</string>
 
     <string name="welcome">Welcome to Android System Pro</string>
-    <string name="welcome_1">Please, take a minute to read what\'s inside this application. Keep in mind that some tools will not work without root permission and busybox\n\nBefore leaving a bad review on Play Store, if you face off any issue, problem or error contact us (gido.solution@gmail.com) and describe your problem!</string>
+    <string name="welcome_1">Please, take a minute to read what\'s inside this application. Keep in
+        mind that some tools will not work without root permission and busybox\n\nBefore leaving a
+        bad review on Play Store, if you face off any issue, problem or error contact us
+        (gido.solution@gmail.com) and describe your problem!
+    </string>
     <string name="welcome_2">System Tools:</string>
     <string name="welcome_3">- MIUI File Explorer with ability to enable root access</string>
     <string name="welcome_5">- LogCat allow you to explore system logs</string>
+    <string name="welcome_31">- Anonymous Browser allow you to surfing the web with the transparent anon</string>
     <string name="welcome_28">App preferences:</string>
-    <string name="welcome_29">- Framework installer allow you to install the XPosed framework required for customizing and using the app preferences module. Require root access and busybox</string>
-    <string name="welcome_30">- Application custom preferences allow you to customize app preferences using Xposed app settings that allow you to customize apps DPI, Layout, font scale and much more. Require the compatible framework installed, root and busybox</string>
+    <string name="welcome_29">- Framework installer allow you to install the XPosed framework
+        required for customizing and using the app preferences module. Require root access and
+        busybox
+    </string>
+    <string name="welcome_30">- Application custom preferences allow you to customize app
+        preferences using Xposed app settings that allow you to customize apps DPI, Layout, font
+        scale and much more. Require the compatible framework installed, root and busybox
+    </string>
     <string name="welcome_6">System Informations:</string>
     <string name="welcome_7">- Benchmarks allow you to detect your device performance</string>
-    <string name="welcome_8">- Permissions display in a detailed list all the android permissions and allow you to check wich installed applications use certain permissions. The red marked are the dengerous one!</string>
-    <string name="welcome_9">- CPU and Kernel spy allow you to check detailed informations about your cpu voltage and kernel related infos</string>
+    <string name="welcome_8">- Permissions display in a detailed list all the android permissions
+        and allow you to check wich installed applications use certain permissions. The red marked
+        are the dengerous one!
+    </string>
+    <string name="welcome_9">- CPU and Kernel spy allow you to check detailed informations about
+        your cpu voltage and kernel related infos
+    </string>
     <string name="welcome_10">Editors:</string>
-    <string name="welcome_11">- The build prop editor is an useful tool to manual edit the system build properties. This tool requires root access!</string>
+    <string name="welcome_11">- The build prop editor is an useful tool to manual edit the system
+        build properties. This tool requires root access!
+    </string>
     <string name="welcome_12">Backup:</string>
-    <string name="welcome_13">- App backup allow you to backup and restore your application data. This tool requires root access and busybox installed</string>
-    <string name="welcome_14">- Data backup allow you to backup and restore your personal data such as SMS, Call Logs, Bookmarks, Settings etc.</string>
-    <string name="welcome_15">- Properties backup allow you to backup and restore your system properties files. This tool requires root access</string>
+    <string name="welcome_13">- App backup allow you to backup and restore your application data.
+        This tool requires root access and busybox installed
+    </string>
+    <string name="welcome_14">- Data backup allow you to backup and restore your personal data such
+        as SMS, Call Logs, Bookmarks, Settings etc.
+    </string>
+    <string name="welcome_15">- Properties backup allow you to backup and restore your system
+        properties files. This tool requires root access
+    </string>
     <string name="welcome_16">System Optimization:</string>
-    <string name="welcome_17">- Zipalign application is a task that will optimize all your applications in system and data folder. Zipalign will increase the general performance and reduce the ram usage. This tool requires root access</string>
-    <string name="welcome_18">- SQL defrag and optimization is a task that optmize your SQL databases such as contacts etc. This tool requires root access</string>
-    <string name="welcome_19">- Application cache cleaner will clean the apps cache and will free some space on your internal SDCard. This tool requires root access</string>
+    <string name="welcome_17">- Zipalign application is a task that will optimize all your
+        applications in system and data folder. Zipalign will increase the general performance and
+        reduce the ram usage. This tool requires root access
+    </string>
+    <string name="welcome_18">- SQL defrag and optimization is a task that optmize your SQL
+        databases such as contacts etc. This tool requires root access
+    </string>
+    <string name="welcome_19">- Application cache cleaner will clean the apps cache and will free
+        some space on your internal SDCard. This tool requires root access
+    </string>
     <string name="welcome_20">Tweaker:</string>
-    <string name="welcome_21">- Combines inside the Android Tweaker PRO tweaks, not yet finished. All the tweaked will be imported into this app as soon as possible. The tweaker requires root access in order to work properly</string>
+    <string name="welcome_21">- Combines inside the Android Tweaker PRO tweaks, not yet finished.
+        All the tweaked will be imported into this app as soon as possible. The tweaker requires
+        root access in order to work properly
+    </string>
     <string name="welcome_22">GPS Tune:</string>
-    <string name="welcome_23">- Allow you to choose your country and overwrite the default gps config file. GPS Tune requires root access</string>
+    <string name="welcome_23">- Allow you to choose your country and overwrite the default gps
+        config file. GPS Tune requires root access
+    </string>
     <string name="welcome_24">Uninstaller:</string>
-    <string name="welcome_25">- This powerful tool allow you to physically remove system applications. This tool requires root access</string>
+    <string name="welcome_25">- This powerful tool allow you to physically remove system
+        applications. This tool requires root access
+    </string>
     <string name="welcome_26">Recovery:</string>
-    <string name="welcome_27">- Allow you to launch custom recovery action directly from your device. It requires a custom recovery like CWM or TWRP in order to work properly</string>
+    <string name="welcome_27">- Allow you to launch custom recovery action directly from your
+        device. It requires a custom recovery like CWM or TWRP in order to work properly
+    </string>
+    <string name="welcome_32">System Customization:</string>
+    <string name="welcome_33">- Font installer allow you to install the font you wish. Require root access!</string>
 
     <string name="unlicensed_dialog_body">"This copy of Android System Pro is not licensed"</string>
     <string name="buy_button">"Buy Android System Pro"</string>
@@ -152,6 +196,12 @@
     <string name="buildprop_backup">Build properties</string>
     <string name="host_backup">Host</string>
     <string name="apn_backup">APN Config</string>
+    <string name="build_prop_backuped">Build properties successfully backuped!</string>
+    <string name="build_prop_restored">Build properties successfully restored!</string>
+    <string name="hosts_backuped">Hosts file successfully backuped!</string>
+    <string name="hosts_restored">Hosts file successfully restored!</string>
+    <string name="apn_backuped">APN Conf successfully backuped!</string>
+    <string name="apn_restored">APN Conf successfully restored!</string>
 
     <!-- File manager -->
     <string name="added_favorite">Added to Favorites</string>
@@ -228,8 +278,8 @@
         <xliff:g id="total_size">%1$s</xliff:g>
     </string>
     <string name="sd_folder">SD card</string>
-    <string name="search_hint">Search Files</string>
-    <string name="search_title">Search Files</string>
+    <string name="search_hint_file">Search File</string>
+    <string name="search_title">Search File</string>
     <string name="start_server">Start Service</string>
     <string name="stop_server">Stop Service</string>
     <string name="storage_warning">External storage is not available or cannot be read</string>
@@ -269,7 +319,8 @@
     <string name="listsystem">list</string>
     <string name="sizer_title">Root Uninstaller</string>
     <string name="caution">Caution!</string>
-    <string name="sizer_message_startup">This uninstaller allow you to remove applications located in\n/system/app/\n\nRemove only apps that are safe to be removed!
+    <string name="sizer_message_startup">This uninstaller allow you to remove applications located
+        in\n/system/app/\n\nRemove only apps that are safe to be removed!
     </string>
     <string name="sizer_message_delete">Are you sure you want to delete this app?</string>
     <string name="sizer_message_delete_multi_one">Are you sure you want to delete selected app?
@@ -647,9 +698,13 @@
     <!-- Per app setting frameworks and modules -->
     <string name="tabInstall">Framework</string>
     <string name="tabModules">Modules</string>
-    <string name="installerDescription">Here you can install the <b>Xposed</b> framework.
+    <string name="installerDescription">Here you can install the
+        <b>Xposed</b>
+        framework.
         It is the base for modules that can change the behaviour and look of your Android phone.
-        For more information please see <a href="http://forum.xda-developers.com/showthread.php?t=1574401">here</a>.</string>
+        For more information please see
+        <a href="http://forum.xda-developers.com/showthread.php?t=1574401">here</a>.
+    </string>
     <string name="install">Install/Update</string>
     <string name="uninstall">Uninstall (restore app_process)</string>
     <string name="installedVersion">active</string>
@@ -664,17 +719,117 @@
     <string name="module_empty_description">(no description provided)</string>
     <string name="module_no_ui">This module does not provide a user interface</string>
     <string name="no_xposed_modules_found">No Xposed modules were found!</string>
-    <string name="xposed_module_list_updated">Xposed module list was updated\nChanges will become active on reboot</string>
-    <string name="warning_xposed_min_version">This module requires a newer Xposed version (%s) and thus cannot be activated.</string>
-    <string name="phone_not_compatible">Xposed is not (yet) compatible with Android SDK version %1$d or your processor architecture (%2$s).</string>
-    <string name="not_tested_but_compatible">Xposed has not been tested with Android SDK version %d, but it seems to be compatible. You can try installing it if you feel adventurous.</string>
-    <string name="no_min_version_specified">This module does not specify the Xposed version it needs.</string>
-    <string name="warning_min_version_too_low">This module was created for Xposed version %1$s, but due to incompatible changes in version %2$s, it has been disabled.</string>
+    <string name="xposed_module_list_updated">Xposed module list was updated\nChanges will become
+        active on reboot
+    </string>
+    <string name="warning_xposed_min_version">This module requires a newer Xposed version (%s) and
+        thus cannot be activated.
+    </string>
+    <string name="phone_not_compatible">Xposed is not (yet) compatible with Android SDK version %1$d
+        or your processor architecture (%2$s).
+    </string>
+    <string name="not_tested_but_compatible">Xposed has not been tested with Android SDK version %d,
+        but it seems to be compatible. You can try installing it if you feel adventurous.
+    </string>
+    <string name="no_min_version_specified">This module does not specify the Xposed version it
+        needs.
+    </string>
+    <string name="warning_min_version_too_low">This module was created for Xposed version %1$s, but
+        due to incompatible changes in version %2$s, it has been disabled.
+    </string>
     <string name="app_process" translatable="false">app_process</string>
     <string name="xposedbridge" translatable="false">XposedBridge.jar</string>
     <string name="translator"></string>
-    <string name="about_app">An <a href="http://forum.xda-developers.com/showthread.php?t=1574401">Xposed</a> module by
-        <a href="http://forum.xda-developers.com/member.php?u=4419114">rovo89</a> and <a href="http://forum.xda-developers.com/member.php?u=4322181">Tungstwenty</a>.
-        You can use <a href="http://forum.xda-developers.com/showthread.php?t=2012770">this thread</a> for questions or suggestions.</string>
+    <string name="about_app">An
+        <a href="http://forum.xda-developers.com/showthread.php?t=1574401">Xposed</a>
+        module by
+        <a href="http://forum.xda-developers.com/member.php?u=4419114">rovo89</a>
+        and<a href="http://forum.xda-developers.com/member.php?u=4322181">Tungstwenty</a>.
+        You can use
+        <a href="http://forum.xda-developers.com/showthread.php?t=2012770">this thread</a>
+        for questions or suggestions.
+    </string>
+
+    <!-- Fonts installer -->
+    <string name="done">Done</string>
+    <string name="font_installer_desc">Tap on the font you wish to install!</string>
+    <string name="font_method">Choose the method</string>
+    <string name="font_installed">The selected font has been installed, you need to reboot your device in order to apply the changes.\n\nDo you want to reboot your device now?</string>
+    <string name="attenction">Attenction</string>
+    <string name="font_message">Android System font installer let you install with a single tap the font you like listed here.\n\nWhen you tap on a font, a prompt message will let you choose the installation method. Keep in mind that if you select the wrong method your device will end in bootloop!\n\nOwever the choose is not so hard. You just have to select your current Android ROM and choose between AOSP ROM or Stock ROM.</string>
+    <string name="gotit">GOT IT</string>
+
+    <!-- Private Browser -->
+    <string name="pref_images">pref_images</string>
+    <string name="pref_javascript">pref_javascript</string>
+    <string name="errorHtml">&lt;b&gt;Sorry, but something went wrong...&lt;/b&gt;</string>
+    <string name="torInactive">Anonymous data connection not running</string>
+    <string name="torConnecting">Connecting...</string>
+    <string name="starttor">Open preferences</string>
+    <string name="search_label">Browser</string>
+    <string name="search_hint">Web address or search</string>
+    <string name="search_button_text">Go</string>
+    <string name="default_homepage">http://igio90.net/anonymous/</string>
+    <string name="pref_homepage">pref_homepage</string>
+    <string name="pref_clearcache">pref_clearcache</string>
+    <string name="internal_web_url">http://anon/</string>
+    <string name="torProxyNotInstalled">Anonymous browser requires the Orbot application to be installed.</string>
+    <string name="cookiesBlockedFirstLine">Cookies</string>
+    <string name="cookiesBlockedSecondLine">Blocked</string>
+    <string name="allCookiesAreBlocked">All cookies are blocked. You can change this behaviour in the settings.</string>
+    <string name="acceptCookiesFrom">Accept cookies from:</string>
+    <string name="willAddToWhitelist">Ticking these sites will add them to your cookie whitelist.</string>
+    <string name="pref_proxy_group">Proxy Server Settings</string>
+    <string name="pref_proxy_host">Proxy Host</string>
+    <string name="pref_proxy_host_summary">The hostname or IP address of the HTTP proxy server</string>
+    <string name="pref_proxy_port">Proxy Port</string>
+    <string name="pref_proxy_port_summary">The socket port for the HTTP proxy server</string>
+    <string name="pref_user_agent_summary">Change how the browser identifies itself</string>
+    <string name="pref_user_agent_title">User Agent</string>
+    <string name="menu_go">Go</string>
+    <string name="menu_stop">Stop</string>
+    <string name="menu_forward">Forward</string>
+    <string name="menu_reload">Reload</string>
+    <string name="menu_homepage">Homepage</string>
+    <string name="set_locale_title">Set Language</string>
+    <string name="set_locale_summary">Choose the default language for Anonymous browser</string>
+    <string name="load_images">Load images</string>
+    <string name="display_images_on_web_pages">Display images on Web pages</string>
+    <string name="enable_javascript">Enable JavaScript</string>
+    <string name="set_homepage">Set homepage</string>
+    <string name="clear_cache">Clear cache</string>
+    <string name="clear_cache_summary">Clear all cached page content</string>
+    <string name="clear_cache_message">The cache will be cleared.</string>
+    <string name="ref_title">Send referrer information</string>
+    <string name="ref_summary">Referrer information may reveal your browsing history</string>
+    <string name="history_title">Clear Back History</string>
+    <string name="history_summary">Clear all browser history as you browser. Warning: this cannot be undone.</string>
+    <string name="clear_cookies_title">Clear cookie data</string>
+    <string name="clear_cookies_summary">Clear all the browser cookies</string>
+    <string name="clear_cookies_message">The cookies will be cleared.</string>
+    <string name="cookie_behave_title">Cookie behaviour</string>
+    <string name="cookie_behave_summary">Accept or block cookies</string>
+    <string name="cookie_whitelist_title">Cookie whitelist</string>
+    <string name="cookie_whitelist_summary">Set which website can store cookies</string>
+    <string name="add_site_whitelist">Add site to whitelist</string>
+    <string name="title_download_manager">Download Manager</string>
+    <string name="prompt_would_you_like_to_download_this_file_">Would you like to download this file?</string>
+    <string name="prompt_do_you_want_to_open_this_file_for_viewing_">Do you want to open this file for viewing?</string>
+    <string name="orweb_proxy_error">Anonymous Browser is unable to configure proxy settings on your device.</string>
+    <string name="warning_weak_crypto">WARNING: This service uses a certificate with WEAK cryptography. Please tell the administrator to upgrade.</string>
+    <string name="warning_pinned_cert_mismatch">"Provided Certificate Does Not Match PINNED Certifcate: "</string>
+    <string name="error_signature_chain_verification_failed">"signature chain verification failed of "</string>
+    <string name="error_could_not_find_cert_issuer_certificate_in_chain">"Could not find cert issuer certificate in chain: "</string>
+    <string name="error_could_not_find_root_ca_issuer_certificate_in_chain">Could not find Root CA issuer certificate in chain</string>
+    <string name="could_not_find_self_signed_certificate_in_chain">Could not find self-signed certificate in chain</string>
+    <string name="error_domain_check_failed">Domain check failed</string>
+    <string name="error_does_not_contain_">" does not contain "</string>
+    <string name="error_problem_access_local_root_ca_store">problem access local ROOT CA store</string>
+    <string name="install_orbot_">Install Orbot?</string>
+    <string name="market_orbot">market://search?q=pname:org.torproject.android</string>
+    <string name="you_must_have_orbot">You must have Orbot installed and activated to proxy traffic through it. Would you like to install it from Google Play?</string>
+    <string name="start_orbot_">Start Orbot?</string>
+    <string name="orbot_doesn_t_appear_to_be_running_would_you_like_to_start_it_up_and_connect_to_tor_">Orbot doesn\'t appear to be running. Would you like to start it up and connect to Tor?</string>
+    <string name="secure_connection_active_">"Secure Connection Active: "</string>
 
 </resources>
