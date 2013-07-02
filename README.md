@@ -8,5 +8,13 @@ A fast way to translate:
 - Make your changes
 - Send the pull request
 
+Another way for non git familiar users
+- On the right side of the window click on download zip
+- Extract the zip that include all files
+- Delete all directories except the original english
+- Rename the original english folder into the lang you are translating
+- Use notepad++ and open the 3 files
+- Start translating, once finished, submit to giovanni.rocca.90@gmail.com
+
 REMEMBER!
 - I'll keep the strings up-to-date here, so before making a pull request or start translations, sync my changes!
