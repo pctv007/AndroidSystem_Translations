@@ -22,6 +22,7 @@ The free version combines inside some open sources utilities and let you explore
 
 System Tools:
 - MIUI File Explorer with ability to enable root access
+- Anonyous Browser
 - LogCat
 
 App preferences:
