@@ -1,4 +1,4 @@
-<resources>
+﻿<resources>
 
     <string-array name="pref_buffer_choices">
         <item>@string/pref_buffer_choice_main</item>
@@ -144,14 +144,14 @@
     </string-array>
 
     <string-array name="slimsizer_profile_array">
-        <item>Load Profile</item>
-        <item>Save Profile</item>
+        <item>Naloži profil</item>
+        <item>Shrani profil</item>
     </string-array>
 
     <!-- Values for the statistic. -->
     <string-array name="stats" translatable="false">
         <item>Other</item>
-        <item>Kernel Wakelock</item>
+        <item>Kernel wakelock</item>
         <item>Partial Wakelocks</item>
         <item>Alarms</item>
         <item>Network</item>
@@ -162,19 +162,19 @@
 
     <!--  Values for the preferences -->
     <string-array name="statLabels">
-        <item>Other</item>
-        <item>Kernel Wakelock</item>
-        <item>Partial Wakelocks</item>
-        <item>Alarms</item>
-        <item>Network</item>
-        <item>CPU States</item>
-        <item>Process</item>
+        <item>Ostalo</item>
+        <item>Wakelock jedra</item>
+        <item>Delni wakelocki</item>
+        <item>Alarmi</item>
+        <item>Omrežje</item>
+        <item>CPU Stanja</item>
+        <item>Proces</item>
     </string-array>
 
     <!--  Values for the preferences -->
     <string-array name="saveAsLabels">
-        <item>Text Dumpfile</item>
-        <item>JSON Dumpfile</item>
+        <item>Tekstovni dumpfile</item>
+        <item>JSON dumpfile</item>
         <item>logcat</item>
         <item>dmesg</item>
 
@@ -191,11 +191,11 @@
     </string-array>
 
     <string-array name="statTypeLabels">
-        <item>Since charged</item>
-        <item>Since unplugged</item>
-        <item>Since Custom Ref.</item>
-        <item>Since Screen Off</item>
-        <item>Since Boot</item>
+        <item>Od polnjenja</item>
+        <item>Od odklopa</item>
+        <item>Od Custom Ref.</item>
+        <item>Od izklopitve zaslona</item>
+        <item>Od zagona</item>
     </string-array>
 
     <string-array name="statTypeValues">
@@ -207,9 +207,9 @@
     </string-array>
 
     <string-array name="wlRefLabels">
-        <item>% of time on battery</item>
-        <item>% of time awake</item>
-        <item>% of time awake minus time with screen on</item>
+        <item>% časa na bateriji</item>
+        <item>% časa v vzbujenem stanju</item>
+        <item>% časa v vzbujenem stanju brez časa vklop. zaslona</item>
     </string-array>
 
     <string-array name="wlRefValues">
@@ -233,7 +233,7 @@
     </string-array>
 
     <string-array name="widgetUpdateFreqLabels">
-        <item>None</item>
+        <item>Brez</item>
         <item>5 Min.</item>
         <item>15 Min.</item>
         <item>*30 Min.</item>
@@ -249,8 +249,8 @@
     </string-array>
 
     <string-array name="orderbyLabels">
-        <item>By time (DESC)</item>
-        <item>By count (DESC)</item>
+        <item>Po času (DESC)</item>
+        <item>Po štetju (DESC)</item>
     </string-array>
 
     <string-array name="orderbyValues">
@@ -259,11 +259,11 @@
     </string-array>
 
     <string-array name="widgetFontSizeLabels">
-        <item>X-Large (16)</item>
-        <item>Large (14)</item>
-        <item>Normal (12)</item>
-        <item>*Small (10)</item>
-        <item>Tiny (8)</item>
+        <item>Ogromno (16)</item>
+        <item>Veliko (14)</item>
+        <item>Normalno (12)</item>
+        <item>*Majhno (10)</item>
+        <item>Drobno (8)</item>
     </string-array>
 
     <string-array name="widgetFontSizeValues">
