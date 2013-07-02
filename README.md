@@ -3,10 +3,10 @@ P.S keep in mind that after each update i'll update the strings that contains th
 Also, send me a mail every time i update the app for send the apk of the pro!
 
 A fast way to translate:
-- Open the strings.xml, arrays.xml and store description files.
-- Copy paste the content of the 3 files and create a local copy on your pc
-- Translate them one by one and submit!
+- Fork the repository to your account
+- Always remember to sync with my last changes
+- Make your changes
+- Send the pull request
 
-Check check check!
-If you (example) are from french and you see that there is already a translation of the file, you can open it in github and check
-if there are any errors inside! you can submit in any time pull requests to fix them!
+REMEMBER!
+- I'll keep the strings up-to-date here, so before making a pull request or start translations, sync my changes!
