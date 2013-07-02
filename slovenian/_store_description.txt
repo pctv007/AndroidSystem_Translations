@@ -1,0 +1,68 @@
+﻿*** POSEBEN POPUST: 75% CENE DO 5. JULIJA ***
+*** Preden pustite slabo oceno, nas poskusite kontaktirati in opišite vašo težavo ***
+
+*** Pomagajte nam ustvariti boljši prevod v vašem jeziku! Prevajalski projekt je odprt na: https://github.com/BAM-Team/AndroidSystem_Translations ***
+
+*** Pozor: Na glavnem zaslonu aplikacije smo pripravili podrobne informacije o vsebini! Pozorno preberite kaj potrebuje in kaj ne potrebuje dostopa ROOT ***
+
+Kaj je Android System:
+
+Android System je najboljša aplikacija, ki združuje več kot 20 pripomočkov za upravljanje vaše naprave (trenutno v fazi razvijanja, zato bo več stvari dodanih v bližnji prihodnosti)
+
+Na voljo sta dve različici: brezplačna in Pro.
+Brezplačna različica združuje nekatere odprtokodne pripomočke, hkrati pa vam ponudi predogled različice Pro.
+
+*** DELA V TEKU: ***
+- Dodajanje več kot 30 prevodov
+- Več tweakov
+- Več sistemskih orodij
+- Več stvari!
+
+*** BREZPLAČNA RAZLIČICA: ***
+
+Sistemska orodja:
+- MIUI Raziskovalec datotek z možnostjo root dostopa
+- Anonimni brskalnik
+- LogCat
+
+Nastavitve aplikacije:
+- Namestitveni program ogrodja omogoča namestitev ogrodja XPosed
+- Nastavitve po meri omogočajo prirejanje nastavitev aplikacije s pomočjo nastavitev ogrodja XPosed
+
+Sistemske informacije:
+- Merilniki za CPU, I/O, hitrost omrežja, itd.
+- Dovoljenja 
+- CPU in Kernel vohun
+
+Urejevalniki:
+- Build.prop urejevalnik
+
+Recovery:
+- Omogoča zagon akcij recoveryja naravnost z vaše naprave
+
+*** RAZLIČICA PRO: ***
+
+Prilagoditev sistema:
+- Namestitveno orodje za namestitev pisav
+
+Varnostno kopiranje:
+- Varnostno kopiranje aplikacij 
+- Varnostno kopiranje podatkov 
+- Varnostno kopiranje lastnosti
+
+Optimizacija sistema:
+- Aplikacija Zipalign
+- Defragmentacija in optimizacija SQL
+- Čistilec predpomnilnika aplikacij
+
+Tweaker:
+- Vsebuje tweake iz aplikacije System Tweaker PRO (še ni dokončano).
+
+Nastavitve GPS:
+- Omogoča izbiro vaše države in prepiše privzeto GPS konfiguracijsko datoteko.
+
+Odstranjevalec:
+- To zmogljivo orodje omogoča fizično odstranjevanje sistemskih aplikacij.
+
+
+Vsebina aplikacije bo povečana ob vsaki posodobitvi. Trenutno delamo na zagotavljanju prevodov v več kot 30 jezikih in dodajanju večjega števila pripomočkov, ki bodo to aplikacijo spremenili v najboljšo zbirko sistemskih pripomočkov za Androida!
