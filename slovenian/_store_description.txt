@@ -1,65 +1,68 @@
-Izpod rok razvijalca ROM-a JellyBam in popularne aplikacije Android Tweaker, vam predstavljamo Android System.
+ï»¿*** POSEBEN POPUST: 75% CENE DO 5. JULIJA ***
+*** Preden pustite slabo oceno, nas poskusite kontaktirati in opiÅ¡ite vaÅ¡o teÅ¾avo ***
 
-*** POSEBNI POPUST 75% CENE DO 5. JULIJA ***
-*** Preden pustite slabo oceno, nas poskusite kontaktirati in opišite vašo teavo ***
-*** Preberite opis aplikacije in si zapomnite katera orodja potrebujejo ROOT DOSTOP ***
+*** Pomagajte nam ustvariti boljÅ¡i prevod v vaÅ¡em jeziku! Prevajalski projekt je odprt na: https://github.com/BAM-Team/AndroidSystem_Translations ***
 
-*** Pomagajte nam ustvariti boljši prevod v vašem jeziku! Prevajalski projekt je odprt na: https://github.com/BAM-Team/AndroidSystem_Translations ***
+*** Pozor: Na glavnem zaslonu aplikacije smo pripravili podrobne informacije o vsebini! Pozorno preberite kaj potrebuje in kaj ne potrebuje dostopa ROOT ***
 
 Kaj je Android System:
 
-Android System je najboljša aplikacija, ki zdruuje veè kot 20 pripomoèkov za upravljanje vaše naprave (trenutno v fazi razvijanja, zato bo veè stvari dodanih v blinji prihodnosti)
+Android System je najboljÅ¡a aplikacija, ki zdruÅ¾uje veÄ kot 20 pripomoÄkov za upravljanje vaÅ¡e naprave (trenutno v fazi razvijanja, zato bo veÄ stvari dodanih v bliÅ¾nji prihodnosti)
 
-Na voljo sta vam dve razlièici: brezplaèna in Pro.
-Brezplaèna razlièica zdruuje nekatere odprtokodne pripomoèke, hkrati pa vam ponudi predogled razlièice Pro.
+Na voljo sta dve razliÄici: brezplaÄna in Pro.
+BrezplaÄna razliÄica zdruÅ¾uje nekatere odprtokodne pripomoÄke, hkrati pa vam ponudi predogled razliÄice Pro.
 
 *** DELA V TEKU: ***
-- Dodajanje veè kot 30 prevodov
-- Veè tweakov
-- Veè sistemskih orodij
-- Veè stvari!
+- Dodajanje veÄ kot 30 prevodov
+- VeÄ tweakov
+- VeÄ sistemskih orodij
+- VeÄ stvari!
 
-*** BREZPLAÈNA RAZLIÈICA: ***
+*** BREZPLAÄŒNA RAZLIÄŒICA: ***
 
 Sistemska orodja:
-- MIUI Raziskovalec datotek z monostjo root dostopa
-- LogCat omogoèa brskanje po zapisih sistema
+- MIUI Raziskovalec datotek z moÅ¾nostjo root dostopa
+- Anonimni brskalnik
+- LogCat
 
-App preferences:
-- Framework installer allow you to install the XPosed framework required for customizing and using the app preferences module. Require root access and busybox
-- Application custom preferences allow you to customize app preferences using Xposed app settings that allow you to customize apps DPI, Layout, font scale and much more. Require the compatible framework installed, root and busybox
+Nastavitve aplikacije:
+- Namestitveni program ogrodja omogoÄa namestitev ogrodja XPosed
+- Nastavitve po meri omogoÄajo prirejanje nastavitev aplikacije s pomoÄjo nastavitev ogrodja XPosed
 
-System Informations:
-- Benchmarks allow you to detect your device performance such as CPU, I/O, Network speed and more
-- Permissions display in a detailed list all the android permissions and allow you to check wich installed applications use certain permissions. The red marked are the dengerous one!
-- CPU and Kernel spy allow you to check detailed informations about your cpu voltage and kernel related infos
+Sistemske informacije:
+- Merilniki za CPU, I/O, hitrost omreÅ¾ja, itd.
+- Dovoljenja 
+- CPU in Kernel vohun
 
-Editors:
-- The build prop editor is an useful tool to manual edit the system build properties. This tool requires root access!
+Urejevalniki:
+- Build.prop urejevalnik
 
 Recovery:
-- Allow you to launch custom recovery action directly from your device. It requires a custom recovery like CWM or TWRP in order to work properly
+- OmogoÄa zagon akcij recoveryja naravnost z vaÅ¡e naprave
 
-*** PRO VERSION: ***
+*** RAZLIÄŒICA PRO: ***
 
-Backup:
-- App backup allow you to backup and restore your application data. This tool requires root access and busybox installed
-- Data backup allow you to backup and restore your personal data such as SMS, Call Logs, Bookmarks, Settings etc.
-- Properties backup allow you to backup and restore your system properties files. This tool requires root access
+Prilagoditev sistema:
+- Namestitveno orodje za namestitev pisav
 
-System Optimization:
-- Zipalign application is a task that will optimize all your applications in system and data folder. Zipalign will increase the general performance and reduce the ram usage. This tool requires root access
-- SQL defrag and optimization is a task that optmize your SQL databases such as contacts etc. This tool requires root access
-- Application cache cleaner will clean the apps cache and will free some space on your internal SDCard. This tool requires root access
+Varnostno kopiranje:
+- Varnostno kopiranje aplikacij 
+- Varnostno kopiranje podatkov 
+- Varnostno kopiranje lastnosti
+
+Optimizacija sistema:
+- Aplikacija Zipalign
+- Defragmentacija in optimizacija SQL
+- ÄŒistilec predpomnilnika aplikacij
 
 Tweaker:
-- Combines inside the Android Tweaker PRO tweaks, not yet finished. All the tweaked will be imported into this app as soon as possible. The tweaker requires root access in order to work properly
+- Vsebuje tweake iz aplikacije System Tweaker PRO (Å¡e ni dokonÄano).
 
-GPS Tune:
-- Allow you to choose your country and overwrite the default gps config file. GPS Tune requires root access
+Nastavitve GPS:
+- OmogoÄa izbiro vaÅ¡e drÅ¾ave in prepiÅ¡e privzeto GPS konfiguracijsko datoteko.
 
-Uninstaller:
-- This powerful tool allow you to physically remove system applications. This tool requires root access
+Odstranjevalec:
+- To zmogljivo orodje omogoÄa fiziÄno odstranjevanje sistemskih aplikacij.
 
 
-The content of the applications will be increased on each update. We are currently working for providing translations to over 30 languages and on adding more utilities and things that will turn this app into the best system utilities suite for Android!
+Vsebina aplikacije bo poveÄana ob vsaki posodobitvi. Trenutno delamo na zagotavljanju prevodov v veÄ kot 30 jezikih in dodajanju veÄjega Å¡tevila pripomoÄkov, ki bodo to aplikacijo spremenili v najboljÅ¡o zbirko sistemskih pripomoÄkov za Androida!

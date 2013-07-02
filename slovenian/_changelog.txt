@@ -1,0 +1,15 @@
+v2.0.0:
+
+Refaktorizacija menija:
+- Dodana plošča Prilagoditev sistema
+- Dodana plošča O aplikaciji
+
+Brezplačna vsebina:
+- Sistemska orodja: dodan Anonimni brskalnik, omogočeno transparentno brskanje z uporabo TOR ter zmožnost nastavljanja User-Agent in več...
+- Popravljena namestitev modula Nastavitve aplikacije
+- Popravljeno klicanje dostopa ROOT na večih pripomočkih
+
+Vsebina PRO (Vključene tudi spremembe v brezplačni različici):
+- Prilagoditev sistema: dodano hipno namestitveno orodje pisav z 2 metodama (AOSP ROM in Privzeti ROM)
+- Več Android Tweaker tweakov!
+- Popravljen izvoz varnostnih kopij podatkov
