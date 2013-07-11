@@ -1,57 +1,57 @@
-Par le développeur de la ROM Jellybam et de la populaire application Android Tweaker, nous vous présentons Android System.
+Par le dÃ©veloppeur de la ROM Jellybam et de la  l'application populaire Android Tweaker, voici Android System.
 
-*** RÉDUCTION SPÉCIALE DE 75 % JUSQU'AU 5 JUILLET***
-*** Avant de laisser une critique négative, essayez de nous contacter et décrivez-nous votre problème ***
-*** Lisez la description et prenez note des applications qui requiert un accès ROOT***
+*** REDUCTION SPECIALE DE 75 % JUSQU'AU 5 JUILLET***
+*** Avant de laisser une critique nÃ©gative, contactez-nous et dÃ©crivez-nous votre problÃ¨me ***
+*** Lisez la description et prenez note des fonctions qui nÃ©cessitent un accÃ¨s ROOT***
 
-*** Aidez nous à fournir une meilleur traduction dans votre langue ! Projet de traduction ouvert à tous : https://www.transifex.com/projects/p/android-system/ ***
+*** Aidez nous Ã  fournir une meilleure traduction dans votre langue ! Projet de traduction ouvert Ã  tous : https://www.transifex.com/projects/p/android-system/ ***
 
 Qu'est ce qu'Android System :
 
-Android System est l'ultime utilitaire Android combinant plus de 20 outils (Actuellement en développement, plus de fonctions seront ajoutées dans un futur proche)
+Android System est l'ultime utilitaire Android combinant plus de 20 outils (Actuellement en dÃ©veloppement, plus de fonctions seront ajoutÃ©es dans un futur proche)
 
-Nous donnons accès à 2 versions de l'application : Gratuit et Pro.
+Nous donnons accÃ¨s Ã  2 versions de l'application : Gratuite et Pro.
 
 *** VERSION GRATUITE : ***
 
-Outils Système :
-- Explorateur de fichiers MIUI avec la possibilité d'activer l'accès ROOT
-- LogCat vous permet d'explorer les logs système
+Outils SystÃ¨me :
+- Explorateur de fichiers MIUI avec la possibilitÃ© d'activer l'accÃ¨s ROOT
+- LogCat vous permet d'explorer les logs systÃ¨me
 
-Préférences de l'appli :
-- Framework installer vous permet d'installer Xposed, requis pour customiser et utiliser les modules. Requiert l'accès ROOT et Busybox
-- Application custom preferences vous permet de customiser les applis et de choisir les DPI, dispositions, taille de la police, et bien plus. Requiert un framework compatible, l'accès ROOT et Busybox
+PrÃ©fÃ©rences de l'appli :
+- Installeur Framework vous permet d'installer Xposed, requis pour customiser et utiliser les modules. Requiert l'accï¿½s ROOT et Busybox
+- PrÃ©fÃ©rences Application personalisÃ©es vous permet de customiser les applis et de choisir les DPI, dispositions, taille de la police, et bien plus. Requiert un framework compatible, l'accï¿½s ROOT et Busybox
 
-Informations systèmes :
-- Benchmarks vous permet de calculer les performances de votre appareil tel que la puissance du CPU, I/O, vitesse de connexion et plus encore 
-- Permissions affiche dans une liste détaillée toutes les permissions Android et vous permets de vérifier quelles applications installées utilisent quelles permissions. Celles marquées en rouge sont dangereuses !
-- CPU and Kernel spy vous permet de vérifier des informations détaillées à propos du voltage du CPU et des informations en rapport avec votre Kernel
+Informations systÃ¨me :
+- Benchmarks vous permet de calculer les performances de votre appareil telles que la puissance du CPU, I/O, vitesse de connexion et plus encore 
+- Permissions affiche dans une liste dÃ©taillÃ©e toutes les permissions Android et vous permets de vÃ©rifier quelles applications installÃ©es utilisent quelles permissions. Celles marquÃ©es en rouge sont dangereuses !
+- CPU and Kernel spy vous permet d'afficher des informations dÃ©taillÃ©es Ã  propos du voltage du CPU et d'autres en rapport avec votre Kernel
 
-Éditeurs :
-- L'éditeur build prop est un outil utile pour éditer manuellement les propriétés du système build prop. Cette outil requiert l’accès ROOT.
+Editeurs :
+- L'Ã©diteur build prop est un outil utile pour Ã©diter manuellement les propriÃ©tÃ©s du systÃ¨me. Cet outil requiert l'accÃ¨s ROOT.
 
 Recovery :
-- Vous permet de lancer les actions du Recovery directement depuis votre appareil. Ceci requiert un Recovery, tel que CWM ou TWRP, pour fonctionner correctement
+- Vous permet de lancer les actions du Recovery directement depuis votre appareil. Ceci nÃ©cessite un Recovery, tel que CWM ou TWRP, pour fonctionner correctement
 
 *** VERSION PRO : ***
 
 Sauvegarde :
-- La sauvegarde d'application vous permet la sauvegarde et la restauration des données de vos applications. Cette outils requiert l’accès ROOT et Busybox doit être installé.
-- La sauvegarde des données vous permet la sauvegarde et la restauration de vos données personnelles tel que les SMS, le journal d'appel, Favoris, Paramètres etc...
-- La sauvegarde de propriétés vous permet la sauvegardes et la restaurer de vos propriétés systèmes. Cette outil requiert l’accès ROOT
+- La sauvegarde d'application vous permet de sauvegarder et restaurer les donnÃ©es de vos applications. Cet outil requiert l'accÃ¨s ROOT et Busybox doit Ãªre installÃ©.
+- La sauvegarde des donnÃ©es vous permet de sauvegarder et restaurer vos donnÃ©es personnelles telles que les SMS, le journal d'appel, Favoris, ParamÃ¨tres etc...
+- La sauvegarde de propriÃ©tÃ©s vous permet de sauvegarder et restaurer vos propriÃ©tÃ©s systÃ¨me. Cet outil nÃ©cessite l'accÃ¨s ROOT
 
-Optimisations Système :
-- L'application Zipalign est une tâche qui optimisera toutes vos applications dans les dossiers system et data. Cet outil requiert l'accès ROOT
-- SQL defrag and optimization est une tâche qui optimise vos banque de données SQL tel que les contacts, etc. Cet outil requiert l'accès ROOT
-- L'application nettoyeur de cache va nettoyer le cache des applications et libérer de l'espace dans votre SD interne. Cette outil requiert l'accès ROOT
+Optimisations SystÃ¨me :
+- L'application Zipalign est une tÃ¢che qui optimisera toutes vos applications dans les dossiers SYSTEM et DATA. Cet outil requiert l'accÃ¨s ROOT
+- SQL defrag et optimisation est une tÃ¢che qui optimise vos bases de donnÃ©es SQL tel que les contacts, etc... Cet outil nÃ©cessite l'accÃ¨s ROOT
+- L'application nettoyeur de cache purge le cache des applications et libÃ¨re de l'espace dans votre SD interne. Cet outil requiert l'accÃ¨s ROOT
 
 Tweaker :
-Combine les tweaks à l'intérieur d'Android Tweaker PRO,  pas encore terminé. Toutes les améliorations seront importées dans cette application aussi vite que possible. Le tweaker nécessite l'accès ROOT pour fonctionner correctement
+Combine les tweaks Ã  l'intÃ©rieur d'Android Tweaker PRO. Pas encore terminÃ©. Toutes les amÃ©liorations seront importÃ©es dans cette application aussi vite que possible. Le tweaker nÃ©cessite l'accÃ¨s ROOT pour fonctionner correctement
 
-Réglage du GPS :
-- Vous permet de choisir votre pays et d'écraser le fichier de configuration du GPS par défaut. Le réglage GPS nécessite l'accès ROOT
+RÃ©glage du GPS :
+- Vous permet de choisir votre pays et d'Ã©craser le fichier de configuration GPS par dÃ©faut. Le rÃ©glage GPS nÃ©cessite l'accÃ¨s ROOT
 
-Désinstalleur :
-- Ce puissant outil vous permet de physiquement retirer les applications systèmes. Cet outil requiert l'accès ROOT
+DÃ©sinstalleur :
+- Ce puissant outil vous permet de physiquement retirer les applications systÃ¨me. Cet outil requiert l'accÃ¨s ROOT
 
-L'application sera plus fournie à chaque mise à jour. Nous sommes actuellement entrain de travailler pour fournir des traductions pour plus de 30 langages et à ajouter encore plus d'utilitaires et d'outils qui feront de cette application le nec plus ultra des utilitaires pour Android !
+L'application sera plus fournie Ã  chaque mise-Ã -jour. Nous sommes actuellement en train de travailler pour fournir des traductions pour plus de 30 langages et ajouter encore plus d'utilitaires et d'outils qui feront de cette application le nec plus ultra des utilitaires pour Android !
