@@ -95,6 +95,7 @@
     </string>
     <string name="welcome_32">System Customization:</string>
     <string name="welcome_33">- Font installer allow you to install the font you wish. Require root access!</string>
+    <string name="welcome_34">- Icon changer allow you to enable icon packs installed from play store!</string>
 
     <string name="unlicensed_dialog_body">"This copy of Android System Pro is not licensed"</string>
     <string name="buy_button">"Buy Android System Pro"</string>
@@ -777,7 +778,7 @@
     <string name="font_method">Choose the method</string>
     <string name="font_installed">The selected font has been installed, you need to reboot your device in order to apply the changes.\n\nDo you want to reboot your device now?</string>
     <string name="attenction">Attenction</string>
-    <string name="font_message">Android System font installer let you install with a single tap the font you like listed here.\n\nWhen you tap on a font, a prompt message will let you choose the installation method. Keep in mind that if you select the wrong method your device will end in bootloop!\n\nOwever the choose is not so hard. You just have to select your current Android ROM and choose between AOSP ROM or Stock ROM.</string>
+    <string name="font_message">Android System font installer let you install with a single tap the font you like listed here.\n\nWhen you tap on a font, a prompt message will let you choose the installation method. Keep in mind that if you select the wrong method your device will end in bootloop!\n\nHowever the choose is not so hard. You just have to select your current Android ROM and choose between AOSP ROM or Stock ROM.</string>
     <string name="gotit">GOT IT</string>
 
     <!-- Private Browser -->
