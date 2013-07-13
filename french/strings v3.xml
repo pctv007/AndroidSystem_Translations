@@ -1,0 +1,737 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+	<string name="app_name">Android System PRO</string>
+	<string name="menu_settings">Paramètres</string>
+	<string name="title_activity_main">Android System PRO</string>
+	<string name="drawer_open">Ouvrir le volet de navigation</string>
+	<string name="drawer_close">Fermer le volet de navigation</string>
+	<string name="settings">Paramètres</string>
+
+	<string name="application_error">Erreur d\'application :</string>
+	<string name="check_license">Vérifier la licence</string>
+	<string name="checking_license">Vérification de la licence</string>
+	<string name="allow">Autoriser</string>
+	<string name="dont_allow">Ne pas autoriser</string>
+	<string name="unlicensed_dialog_title">Pas de licence</string>
+
+	<string name="free">Version Gratuite</string>
+	<string name="pro">Version Pro</string>
+
+	<string name="pro_warn_title">Fonction PRO</string>
+	<string name="pro_warn_msg">Cette option est disponible uniquement avec la version PRO d\'Android System</string>
+	<string name="pro_go_to_market">Play Store</string>
+
+	<string name="welcome">Bienvenue dans Android System Pro</string>
+	<string name="welcome_1">S\'il vous plaît, prenez une minute pour lire ce qu\'il y a dans cette application. Gardez en tête que certains outils ne fonctionneront pas sans les permissions ROOT et busybox.\n\nAvant de mettre une mauvaise note sur le Play Store, si vous faites face à un soucis, un problème ou une erreur, merci de nous contacter (gido.solution@gmail.com) et décrivez votre problème !</string>
+
+	<string name="welcome_2">Outils systèmes :</string>
+	<string name="welcome_3">- MIUI File Explorer avec la possibilité d\'activé l’accès ROOT</string>
+	<string name="welcome_5">- LogCat vous permet d\'explorer les logs systèmes</string>
+	<string name="welcome_31">- Anonymous Browser allow you to surfing the web with the transparent anon</string>
+	<string name="welcome_28">Préférences de l\'appli :</string>
+	<string name="welcome_29">- L\'installeur de Framework vous permet d\'installer Xposed, requis pour customiser et utiliser les modules. Requiert l\'accès ROOT et Busybox</string>
+	<string name="welcome_30">- Les préférences d\'appli personnalisées vous permettent de choisir les DPI, dispositions, taille de la police, et bien plus. Requiert un	amework compatible, l\'accès ROOT et Busybox</string>
+	<string name="welcome_6">Informations systèmes :</string>
+	<string name="welcome_7">- Les Benchmarks vous permettent de calculer les performances de votre appareil</string>
+	<string name="welcome_8">- L\'affichage des permissions est une liste détaillée de toutes les permissions Android et vous permets de vérifier quelles applications installées utilisent certaines permissions. Celles marquées en rouge sont dangereuses !</string>
+	<string name="welcome_9">- L\'espion CPU et Kernel vous permet de vérifier des informations détaillées à propos du voltage du CPU et des informations en rapport avec votre Kernel</string>
+	<string name="welcome_10">Éditeurs :</string>
+	<string name="welcome_11">- L\'éditeur build prop est un outil utile pour éditer manuellement les propriétés du système build prop. Cette outil requiert l’accès ROOT.</string>
+	<string name="welcome_12">Sauvegarde :</string>
+	<string name="welcome_13">- La sauvegarde d\'application vous permet de sauver et restaurer les données de vos applications. Cet outil requiert l’accès ROOT et Busybox doit être installé.</string>
+	<string name="welcome_14">- La sauvegarde des données vous permet de sauver et restaurer vos données personnelles tellesque les SMS, le journal d\'appel, les Favoris, les Paramètres etc...</string>
+	<string name="welcome_15">- La sauvegarde des propriétés vous permet de sauver et restaurer vos propriétés système. Cet outil requiert l\'accés ROOT</string>
+	<string name="welcome_16">Optimisation système : </string>
+	<string name="welcome_17">-L\'application Zipalign vous permet d\'optimiser toutes vos applications dans les dossiers system et data. Zipalign va augmenter les performances générales et reduire l\'utilisation de la RAM. Cet outil requiert l\'accès ROOT</string>
+	<string name="welcome_18">- La défragmentation et l\'optimisation SQL améliorent vos base de données SQL telles que les contacts, etc... Cet outil requiert l\'accès ROOT</string>
+	<string name="welcome_19">- Le Nettoyeur de cache nettoiera le cache des applications et libèrera de l\'espace dans votre carte SD interne. Cet outil requiert l\'accès ROOT</string>
+	<string name="welcome_20">Tweaker :</string>
+	<string name="welcome_21">Synchronise les paramètres avec Android Tweaker Pro, pas encore terminé. Toutes les améliorations seront importées dans cette application aussi vite que possible. Le tweaker nécessite l\'accès ROOT pour fonctionner correctement</string>
+	<string name="welcome_22">Réglage du GPS :</string>
+	<string name="welcome_23">- Vous permet de choisir votre pays et d\'écraser le fichier de configuration du GPS par défaut. Ce réglage GPS nécessite l\'accès ROOT</string>
+	<string name="welcome_24">Désinstalleur :</string>
+	<string name="welcome_25">- Ce puissant outil vous permet de physiquement retirer les applications systèmes. Cet outil requiert l\'accès ROOT</string>
+	<string name="welcome_26">Recovery :</string>
+	<string name="welcome_27">- Vous permet de lancer les actions du Recovery directement depuis votre appareil. Nécessite un Recovery tel que CWM ou TWRP pour fonctionner correctement</string>
+	<string name="welcome_32">Personalisation du Système:</string>
+	<string name="welcome_33">- Installeur de Police vous permet d'installer la Police que vous souhaitez. Nécessite l'accès Root!</string>
+	<string name="welcome_34">- Changeur d'Icone vous permet d'activer des packs d'icones installés depuis le Play Store!</string>
+
+	<string name="unlicensed_dialog_body">Cette copie d\'Android System Pro n\'a pas de licence</string>
+	<string name="buy_button">Acheter Android System Pro</string>
+	<string name="quit_button">Quitter</string>
+	<string name="retry_button">Réessayer</string>
+
+	<string name="recovery_change_alert_title">Recovery détecté</string>
+	<string name="recovery_change_alert_message">Dossier du recovery trouvé: %1$s.\nVoulez-vous le configurer par défaut?</string>
+	<string name="recovery_changed">Recovery %1$s configuré.</string>
+	<string name="recovery_cwm">Basé sur CWM</string>
+	<string name="recovery_4ext">4EXT</string>
+	<string name="recovery_twrp">TWRP</string>
+	<string name="recovery_title">Choisir un recovery</string>
+	<string name="recovery_summary">Choisissez le recovery installé sur votre appareil</string>
+	<string name="recovery_alert_title">Choisir un recovery</string>
+	<string name="recovery_alert_summary">Spécifier le recovery que vous utilisez</string>
+	<string name="settings_recovery">Recovery</string>
+
+	<string name="internalsdcard_title">Chemin stockage interne</string>
+	<string name="internalsdcard_summary">Spécifier le chemin de stockage interne utilisé par le recovery</string>
+	<string name="externalsdcard_title">Chemin stockage externe</string>
+	<string name="externalsdcard_summary">Spécifier le chemin de stockage externe utilisé par le recovery</string>
+	<string name="sdcard_alert_title">Chemin stockage</string>
+	<string name="sdcard_alert_summary">Spécifier le nom du stockage</string>
+	<string name="sdcard_alert_error">Veuillez spécifier le nom de stockage</string>
+	<string name="backup">Sauvegarde</string>
+	<string name="wipe_system">Effacer Sytem</string>
+	<string name="wipe_data">Effacer Data</string>
+	<string name="wipe_caches">Effacer Cache &amp; Dalvik</string>
+	<string name="fix_permissions">Fixer les permissions</string>
+	<string name="alert_reboot_title">Choisir les actions et installer</string>
+	<string name="alert_reboot_now">Installer maintenant</string>
+	<string name="alert_backup_title">Sauvegarde</string>
+	<string name="alert_backup_message">Spécifier un nom pour cette sauvegarde (les espaces seront retirés)</string>
+	<string name="system">System</string>
+	<string name="data">Data</string>
+	<string name="cache">Cache</string>
+	<string name="recovery">Recovery</string>
+	<string name="boot">Boot</string>
+	<string name="androidsecure">Android secure</string>
+	<string name="sdext">SD-Ext</string>
+	<string name="settings_showoptions_title">Options</string>
+	<string name="settings_showoptions_summary">Choisissez les options à afficher en appuyant \nsur le bouton Installer maintenant</string>
+
+	<string name="alert_backup_space_title">Espace restant</string>
+	<string name="alert_backup_space_message">Il y a moins de %1$sGO dans la carte SD interne.\nContinuer la sauvegarde?</string>
+	<string name="alert_restore_title">Restaurer</string>
+	<string name="alert_wipe_system_title">Wipe du système</string>
+	<string name="alert_wipe_system_message">Vous êtes sur le point d\'effacer toutes les données de l\'OS.\nÊtes-vous sûr de vouloir faire ça ?</string>
+	<string name="alert_delete_title">Supprimer</string>
+	<string name="alert_deleting_folder">Suppression de %1$s…</string>
+	<string name="recovery_activity_title">Recovery</string>
+	<string name="recovery_activity_backup_title">Sauvegarde</string>
+	<string name="recovery_activity_backup_summary">Faire une sauvegarde de votre rom</string>
+	<string name="recovery_activity_restore_title">Restaurer</string>
+	<string name="recovery_activity_restore_summary">Restaurer une sauvegarde précédente</string>
+	<string name="recovery_activity_delete_title">Effacer</string>
+	<string name="recovery_activity_delete_summary">Effacer une sauvegarde précédente</string>
+	<string name="recovery_activity_reboot_title">Redémarrer sur le recovery</string>
+	<string name="recovery_activity_actions">Actions du recovery</string>
+	<string name="recovery_activity_actions_summary">Wipe data, caches et/ou fix permissions</string>
+	<string name="goo_package_description">%1$s\nMD5: %2$s\nDossier: %3$s\nDescription: %4$s</string>
+	<string name="ouc_package_description">%1$s\nMD5: %2$s\nDate: %3$s\nChangelog: %4$s</string>
+	<string name="unsupported_rom_title">Rom non supportée </string>
+	<string name="unsupported_rom_message">Votre ROM ne contient pas les informations\nnécessaires pour localiser le service OTA.\nContactez votre développeur pour régler ce problème.</string>
+	<string name="no_changelog_configured">Pas d\'url de changelog configuré</string>
+	<string name="restart_needed">Redémarrage nécessaire</string>
+	<string name="restart_needed_theme_message">Un redémarrage est nécessaire pour appliquer le thème.\nVoulez vous redémarrer l\'application maintenant ?</string>
+	<string name="exit_press_back_twice_message">Appuyez de nouveau pour fermer le Système Android</string>
+	<string name="install_file_manager_error">Aucune application trouvée pour choisir le fichier zip.\nVeuillez installer un explorateur de fichiers.</string>
+	<string name="install_file_manager_invalid_zip">Fichier ZIP invalide.</string>
+	<string name="install_file_manager_not_found_zip">Élément supprimé introuvable dans la liste.</string>
+	<string name="install_file_manager_zip_added">Zip ajouté à la file d\'attente du flash.</string>
+	<string name="download_alert_title">Chemin de téléchargement</string>
+	<string name="download_alert_summary">Spécifier le chemin où enregistrer les téléchargements</string>
+	<string name="download_alert_error">Chemin où enregistrer les téléchargements non spécifié</string>
+	<string name="str_zipalign">Zipalign APK</string>
+	<string name="str_sqlopt">Défragmentation SQL</string>
+	<string name="str_chooseversion">Choisissez votre version d\'Android</string>
+
+	<!-- prop backup -->
+	<string name="title_backup">Sauvegarder</string>
+	<string name="title_restore">Restaurer</string>
+	<string name="buildprop_backup">Propriétés du Build</string>
+	<string name="host_backup">Hôte</string>
+	<string name="apn_backup">Configuration APN</string>
+	<string name="build_prop_backuped">Propriétés de Build sauvegardées avec succès!</string>
+	<string name="build_prop_restored">Propriétés de Build restaurées avec succès!</string>
+	<string name="hosts_backuped">Fichier Hosts sauvegardé avec succès!</string>
+	<string name="hosts_restored">Fichier Hosts restauré avec succès!</string>
+	<string name="apn_backuped">Config APN sauvegardée avec succès!</string>
+	<string name="apn_restored">Config APN restaurée avec succès!</string>
+
+	<!-- File manager -->
+	<string name="added_favorite">Ajouté aux favoris</string>
+	<string name="cancel">Annuler</string>
+	<string name="category_all">Tout</string>
+	<string name="category_apk">APKs</string>
+	<string name="category_document">Documents</string>
+	<string name="category_favorite">Favoris</string>
+	<string name="category_music">Musique</string>
+	<string name="category_other">Divers</string>
+	<string name="category_picture">Images</string>
+	<string name="category_theme">Thèmes</string>
+	<string name="category_video">Vidéos</string>
+	<string name="category_zip">Zips</string>
+	<string name="confirm">OK</string>
+	<string name="confirm_know">OK</string>
+	<string name="enable_sd_card">Carte SD indisponible, merci d\'en connecter une</string>
+	<string name="error_info_cant_send_folder">Impossible d\'envoyer le dossier</string>
+	<string name="fail_to_create_folder">Échec de création du dossier: il existe déjà...</string>
+	<string name="fail_to_rename">Impossible de renommer car un fichier ou dossier du même nom existe déjà...</string>
+	<string name="file_info_canread">Lisible :</string>
+	<string name="file_info_canwrite">Écrivable :</string>
+	<string name="file_info_ishidden">Caché :</string>
+	<string name="file_info_location">Chemin :</string>
+	<string name="file_info_modified">Modifié :</string>
+	<string name="file_info_size">Taille :</string>
+	<string name="file_size">%d Octets</string>
+	<string name="install_failed">Installation échouée</string>
+	<string name="install_successful">Installation réussie</string>
+	<string name="instruction">Entrer l\'adresse suivante dans votre Client FTP :</string>
+	<string name="instruction_pre">Lancez le service pour activer le serveur FTP</string>
+	<string name="menu_item_search">Chercher</string>
+	<string name="menu_item_sort">Trier par</string>
+	<string name="menu_item_sort_date">Date</string>
+	<string name="menu_item_sort_name">Nom</string>
+	<string name="menu_item_sort_size">Taille</string>
+	<string name="menu_item_sort_type">Type</string>
+	<string name="new_folder_name">Nouveau dossier</string>
+	<string name="no">Non</string>
+	<string name="no_file">Pas de fichier</string>
+	<string name="no_wifi">Pas de réseau Wi-fi</string>
+	<string name="no_wifi_hint">Pas de réseau Wi-Fi, appuyez pour vérifier les paramètres WiFi</string>
+	<string name="notif_server_starting">Serveur FTP démarré</string>
+	<string name="notif_title">Serveur FTP</string>
+	<string name="operation_cancel">Annuler</string>
+	<string name="operation_cancel_selectall">Désélectionner tout</string>
+	<string name="operation_copy">Copier</string>
+	<string name="operation_copy_path">Copier le chemin du fichier</string>
+	<string name="operation_create_folder">Nouveau dossier</string>
+	<string name="operation_create_folder_message">Entrez le nom du dossier</string>
+	<string name="operation_delete">Supprimer</string>
+	<string name="operation_delete_confirm_message">Confirmer la suppression?</string>
+	<string name="operation_deleting">Suppression...</string>
+	<string name="operation_favorite">Ajouter aux favoris</string>
+	<string name="operation_hide_sys">Cacher les fichiers cachés</string>
+	<string name="operation_info">Détails</string>
+	<string name="operation_move">Déplacer</string>
+	<string name="operation_moving">Déplacement...</string>
+	<string name="operation_paste">Coller</string>
+	<string name="operation_pasting">Collage...</string>
+	<string name="operation_refresh">Actualiser</string>
+	<string name="operation_rename">Renommer</string>
+	<string name="operation_rename_message">Entrez un nouveau nom</string>
+	<string name="operation_selectall">Séléctionner tout</string>
+	<string name="operation_send">Envoyer</string>
+	<string name="operation_show_sys">Montrer les fichiers cachés</string>
+	<string name="operation_unfavorite">Enlever des favoris</string>
+	<string name="removed_favorite">Enlevé des favoris</string>
+	<string name="sd_card_available">Espace libre:
+		<xliff:g id="available_size">%1$s</xliff:g>
+	</string>
+	<string name="sd_card_size">Carte SD:
+		<xliff:g id="total_size">%1$s</xliff:g>
+	</string>
+	<string name="sd_folder">Carte SD</string>
+	<string name="search_hint">Rechercher des fichiers</string>
+	<string name="search_title">Rechercher des fichiers</string>
+	<string name="start_server">Lancer le service</string>
+	<string name="stop_server">Stopper le service</string>
+	<string name="storage_warning">Le stockage externe est indisponible ou illisible</string>
+	<string name="tab_category">Naviguer</string>
+	<string name="tab_remote">FTP</string>
+	<string name="tab_sd">Fichier</string>
+	<string name="wifi_state">Statut WLAN</string>
+	<string name="yes">Oui</string>
+	<string name="dialog_select_type">Choisissez le type de fichier</string>
+	<string name="dialog_type_text">Texte</string>
+	<string name="dialog_type_audio">Audio</string>
+	<string name="dialog_type_video">Vidéo</string>
+	<string name="dialog_type_image">Image</string>
+	<string name="favorite_photo">Photo</string>
+	<string name="favorite_sdcard">Carte SD</string>
+	<string name="favourite_root">Root</string>
+	<string name="favorite_screen_cap">Capture d\'écran MIUI</string>
+	<string name="favorite_ringtone">Sonnerie</string>
+	<string name="multi_select_title">Élément(s) Sélectionné(s):
+		<xliff:g id="number">%1$s</xliff:g>
+		élément(s)
+	</string>
+	<string name="menu_setting">Préférences</string>
+	<string name="menu_exit">Quitter</string>
+	<string name="preference_title">Paramètres généraux</string>
+	<string name="pref_primary_folder">Dossier d\'accueil</string>
+	<string name="pref_read_root">Lire le root</string>
+	<string name="pref_show_real_path">Afficher le chemin réel</string>
+	<string name="default_primary_folder">/mnt/sdcard</string>
+	<string name="pref_primary_folder_summary">Le dossier qui apparaît au démarrage de l\'appli.\nSon chemin actuel est
+		<xliff:g id="string">%1$s</xliff:g>
+	</string>
+	<string name="pref_show_real_path_summary">Montrer le chemin réel dans la barre de navigation</string>
+
+	<!--Uninstaller-->
+	<string name="listsystem">liste</string>
+	<string name="sizer_title">Désinstalleur Root</string>
+	<string name="caution">Attention !</string>
+	<string name="sizer_message_startup">Ce désinstalleur vous permet de supprimer les applications présentes dans\n/ system/app/\n\nSupprimez seulement les applications qui sont sans danger !</string>
+	<string name="sizer_message_delete">Êtes-vous sûr de vouloir supprimer cette app?</string>
+	<string name="sizer_message_delete_multi_one">Êtes-vous sûr de vouloir supprimer l\'app sélectionnée?</string>
+	<string name="sizer_message_delete_multi">Êtes-vous sûr de vouloir supprimer les apps séléctionnées?</string>
+	<string name="btn_delete">Supprimer les apps sélectionnées maintenant! </string>
+	<string name="delete_progress_title">Suppression</string>
+	<string name="delete_progress">Suppression en cours des fichiers sélectionnés...</string>
+	<string name="delete_success">Supprimé</string>
+	<string name="delete_fail">Impossible de supprimer</string>
+	<string name="btn_profile">Profil</string>
+	<string name="sizer_message_sdnowrite">Impossible d\'écrire sur la carte SD.</string>
+	<string name="sizer_message_sdnoread">Impossible de lire la carte SD.</string>
+	<string name="sizer_message_filesuccess">Profil créé</string>
+	<string name="sizer_message_filefail">Échec de la création de profil.</string>
+	<string name="sizer_message_noselect">Rien n\'est sélectionné.</string>
+	<string name="ok">OK</string>
+ 
+	<!--Benchmark-->
+	<string name="network_edge">Réseau : EDGE</string>
+	<string name="network_3g">Réseau : 3G</string>
+	<string name="network_detecting">Réseau : Détection</string>
+	<string name="update_speed">%s kbit/sec</string>
+	<string name="update_downloaded" formatted="false">%s de %s Téléchargé</string>
+	<string name="update_connectionspeed">Temps de connection : %s ms</string>
+	<string name="update_downloaded_complete" formatted="false">%s @ %s kbit/sec Téléchargé</string>
+	<string name="hardwareinformation">Information matérielle :</string>
+	<string name="cputest">Test du CPU :</string>
+	<string name="speedtest">Test de vitesse :</string>
+	<string name="iotest">Test IO :</string>
+ 
+	<!--Permissions-->
+	<string name="permission_settings_loading">Chargement</string>
+	<string name="refresh">Actualiser la liste</string>
+ 
+	<!--Tweaker-->
+	<string name="str_generalbattery">Tweaks généraux d\'autonomie de la batterie.</string>
+	<string name="str_incwifi">Augmenter l\'intervalle de scan WiFi</string>
+	<string name="str_incwifidesc">Ce tweak mettra 180 secondes d\'intervalle entre chaque scan WIFI au lieu\nde 60 par défaut</string>
+	<string name="str_incdeep">Améliorer l\'autonomie en mode deep sleep</string>
+	<string name="str_incdeepdesc">Définissez le comportement du CPU quand l\'appareil est en sommeil profond</string>
+	<string name="str_discollapse">Désactiver la chute d\'alimentation</string>
+	<string name="str_discollapsedesc">Un mode d\'alimentation ultra-bas quand l\'appareil est inactif</string>
+	<string name="str_vmbatt">Tweaks Batterie VM</string>
+	<string name="str_vmbattdesc">Ce tweak modifiera la valeur de dirty_expire_centisecs et\ndirty_writeback_centisecs</string>
+	<string name="str_mediascannerdesc">Qu\'est-ce que le Media Scanner ?\nC'est un service Android qui scanne la mémoire interne et externe de votre appareil\nà la recherche de fichiers médias et de mises a jour de différentes bases de données, \nqui permettront à des applis comme la galerie et le lecteur de fonctionner correctement.\nDésactiver le Media Scanner, vous permettra cependant d\'obtenir plus d'autonomie pour la batterie et les performances !\nMais attention : la galerie et l\'appareil photo ne sont généralement pas affectés, mais d\'autres applis (comme la capture d\'écran) pourraient l\'être.\nSi vous rencontrez des problèmes, revenez ici et changez la valeur.</string>
+	<string name="str_enmediascanner">Réactiver le Media Scanner</string>
+	<string name="str_dismediascanner">Désactiver le Media Scanner</string>
+
+	<string name="str_generaltitle">Tweaks généraux de performance</string>
+	<string name="str_forcegpu">Forcer le rendu UI avec le GPU</string>
+	<string name="str_forcegpudesc">Réduit l\'utilisation du CPU</string>
+	<string name="str_additionalgpu">Réglage additionnel du GPU</string>
+	<string name="str_additionalgpudesc">Réglage Fin du GPU\nCela permettra quelques nouveaux\ntweaks pour ICS et JellyBean</string>
+	<string name="str_enablesysui">Activer le rendu Hardware dans IU Système</string>
+	<string name="str_enablesysuidesc">Activer le rendu matériel. Améliore la réactivité du tactile.</string>
+	<string name="str_qualcomm">Réglages Qualcomm</string>
+	<string name="str_qualcommdesc">Réglage fin du processeur Qualcomm</string>
+	<string name="str_smoothtitle">Tweaks de fluidité</string>
+	<string name="str_imprscrollin">Améliorer la vitesse de scrolling</string>
+	<string name="str_imprscrollindesc">Cette option change les paramètres \'min\' et \'max\' \nde la vitesse de passage d'un écran à un autre</string>
+	<string name="str_touchres">Augmenter la réactivité tactile</string>
+	<string name="str_touchresdesc">Cette option change les paramètres de l\'échelle de pression tactile</string>
+	<string name="str_maxevents">Augmenter événements max par sec</string>
+	<string name="str_maxeventsdesc">Change le max d’événements que le processeur peut supporter.\nCette option sera définie à 160</string>
+	<string name="str_minfree">Réglages stricts du gestionnaire minfree</string>
+	<string name="str_minfreedesc">Régler votre Multi-tâches</string>
+	<string name="str_vmperf">Tweaks de gestion VM</string>
+	<string name="str_vmperfdesc">Améliore la gestion de la mémoire virtuelle avec les valeurs de performance</string>
+	<string name="str_gpsdesc">Configuration GPS</string>
+	<string name="str_gpsintro">Si votre pays n\'est pas listé, sélectionnez seulement le continent</string>
+	<string name="str_continents">Continents</string>
+	<string name="str_european">Europe</string>
+	<string name="str_asian">Asie</string>
+	<string name="str_african">Afrique</string>
+	<string name="str_oceanian">Océanie</string>
+	<string name="str_namerican">Amérique du Nord</string>
+	<string name="str_samerican">Amérique du Sud</string>
+	<string name="str_signaltitle">Tweaks Signal Radio</string>
+	<string name="str_hsxpacat">Augmenter la catégorie HSXPA</string>
+	<string name="str_hsdpacat">Augmenter la catégorie HSDPA</string>
+	<string name="str_hsupacat">Augmenter la catégorie HSUPA</string>
+	<string name="str_gprscat">Augmenter la catégorie de classe GPRS</string>
+	<string name="str_enhep">Activer HEP</string>
+	<string name="str_endtm">Activer DTM</string>
+	<string name="str_ena52">Activer a52</string>
+	<string name="str_en3gpref">Activer le préfixe 3G</string>
+	<string name="str_inchtc1">Augmenter HTCMASKW1</string>
+	<string name="str_inchtc2">Augmenter le bitmask HTCMASKW1</string>
+	<string name="str_enagps">Activer AGPS</string>
+	<string name="str_engea3">Activer GEA3</string>
+	<string name="str_enplmn">Activer le préfixe PLMN</string>
+	<string name="str_netspeedtitle">Tweaks de vitesse internet</string>
+	<string name="str_defnetspeed">Augmenter la vitesse internet par défaut</string>
+	<string name="str_wifinetspeed">Augmenter la vitesse WiFi</string>
+	<string name="str_umtsspeed">Augmenter la vitesse UMTS</string>
+	<string name="str_gprsspeed">Augmenter la vitesse GPRS</string>
+	<string name="str_edgespeed">Augmenter la vitesse EDGE</string>
+	<string name="str_ltespeed">Augmenter la vitesse LTE</string>
+	<string name="str_evdospeed">Augmenter la vitesse EVDO_B</string>
+	<string name="str_hspaspeed">Augmenter la vitesse HSPA</string>
+	<string name="str_hsdpaspeed">Augmenter la vitesse HSDPA</string>
+	<string name="str_ipv4">Tweaks de vitesse IPV4 et TCP</string>
+	<string name="str_gdns">Activer les DNS Google</string>
+	<string name="str_gdnsdesc">Parmis les nombreux bénéfices à utiliser ces DNS, l'un des plus grands est la possibilité d'afficher tous les sites bloqués dans votre pays</string>
+
+	<!-- prop editor -->
+	<string name="add_prop">Ajouter Propriété</string>
+	<string name="save">Sauvegarder</string>
+	<string name="discart">Annuler</string>
+	<string name="edit_key">Clé de la propiété</string>
+	<string name="edit_name">Nom de la propriété</string>
+	<string name="edit_prop_title">Modifier/Ajouter une propiété</string>
+	<string name="unsaved_changes_title">Changements non enregistrés</string>
+	<string name="unsaved_changes_message">Voulez-vous définir cette propriété ?</string>
+	<string name="add">Ajouter</string>
+	<string name="about">À propos</string>
+	<string name="restore">Restaurer</string>
+
+	<!-- Backup -->
+	<string name="menu_export">Exporter</string>
+	<string name="menu_exporteverything">Exporter tout</string>
+	<string name="menu_about">À propos</string>
+	<string name="contextmenu_deletefile">Effacer le fichier</string>
+	<string name="contextmenu_deletedaydata">Effacer les données des derniers jours</string>
+	<string name="error_nosdcard">Aucune carte SD présente.</string>
+	<string name="error_unsupporteddatabasestructure">Structure de base de donnée non supportée</string>
+	<string name="error_couldnotcreatebackupfolder">Impossibilité de créer le dossier de sauvegarde (%s)</string>
+	<string name="error_somethingwentwrong">Quelque chose s\'est mal passé : %s.</string>
+	<string name="hint_nobackupsfound">Aucune sauvegarde trouvée - appuyez sur Menu pour en créer une</string>
+	<string name="hint_noexportdata">Pas de données disponibles pour l\'export.</string>
+	<string name="hint_exporting">Exportation %s …</string>
+	<string name="hint_existed">\"%s\" a existé</string>
+	<string name="message_exportedto">Exporté dans %s.</string>
+	<string name="message_importsuccessful">Importation réussie.</string>
+	<plurals name="message_importsuccessful_skipped">
+	 <item quantity="one">Importation réussie, mais 1 élément ignoré.</item>
+	 <item quantity="other">Importation réussie, mais %d éléments ignorés.</item>
+	</plurals>
+	<string name="message_skippedallentries">Tout les éléments ont été ignorés.</string>
+	<plurals name="listentry_items">
+	 <item quantity="one">1 objet contenu</item>
+	 <item quantity="other">%d objets contenus</item>
+	</plurals>
+	<string name="button_import">Importer</string>
+	<string name="button_accept">Accepter</string>
+	<string name="button_decline">Décliner</string>
+	<string name="smsmessages">Messages SMS</string>
+	<string name="calllogs">Journal d\'appels</string>
+	<string name="bookmarks">Marque-pages</string>
+	<string name="userdictionary">Dictionnaire utilisateur</string>
+	<string name="playlists">Playlists</string>
+	<string name="wifisettings">Paramètres Wifi</string>
+	<string name="contacts">Contacts</string>
+	<string name="dialog_export">Exporter</string>
+	<string name="dialog_licenseagreement">Licence</string>
+	<string name="question_deletefile">Voulez-vous vraiment supprimer ce fichier %s ?</string>
+	<string name="settings_category_cyclicbehavior">Comportement cyclique</string>
+	<string name="settings_cyclecount">Nombre de cycle (expérimental)</string>
+	<string name="settings_cyclecount_description">Nombre max de sauvegarde d\'un type</string>
+	<string name="settings_category_storage">Stockage</string>
+	<string name="settings_storagelocation">Emplacement de stockage</string>
+	<string name="settings_storagelocation_description">Emplacement des fichiers de sauvegarde</string>
+	<string name="settings_storagelocation_hint">Stockage externe standard</string>
+	<string name="settings_hideincompletedatawarnings">Masquer les avertissements sur les données</string>
+	<string name="settings_hideincompletedatawarnings_description">Masquer alertes sur les données\navant un import ou
+	un export</string>
+	<string name="warning_incompletedata_import">L\'importation de %s sera probablement\nincomplète.</string>
+	<string name="warning_incompletedata_export">L\'exportation de %s sera probablement\nincomplète.</string>
+	<string-array name="settings_cyclecountvalues">
+	 <item>illimité</item>
+	 <item>1</item>
+	 <item>2</item>
+	 <item>3</item>
+	 <item>5</item>
+	 <item>10</item>
+	 <item>15</item>
+	 <item>20</item>
+	</string-array>
+
+	<!-- CatLog -->
+	<string name="first_run">first_run23</string>
+
+	<string name="log_level_debug">Debug</string>
+	<string name="log_level_error">Erreur</string>
+	<string name="log_level_info">Info</string>
+	<string name="log_level_value_debug">D</string>
+	<string name="log_level_value_error">E</string>
+	<string name="log_level_value_info">I</string>
+	<string name="log_level_value_verbose">V</string>
+	<string name="log_level_value_warn">W</string>
+	<string name="log_level_value_wtf">F</string>
+	<string name="log_level_verbose">Détaillé</string>
+	<string name="log_level_warn">Avertir</string>
+	<string name="log_level_wtf">Quel Terrible Échec</string>
+
+	<string name="pref_about">à propos</string>
+	<string name="pref_buffer">buffer</string>
+	<string name="pref_buffer_choice_events_value">événements</string>
+	<string name="pref_buffer_choice_main_value">principal</string>
+	<string name="pref_buffer_choice_radio_value">radio</string>
+	<string name="pref_default_log_level">Niveau par défaut</string>
+	<string name="pref_display_limit">Limite d'affichage</string>
+	<string name="pref_display_limit_default">10000</string>
+	<string name="pref_expanded_by_default">Étendu par défaut</string>
+	<string name="pref_hide_partial_select_help">pref_hide_partial_select_help</string>
+	<string name="pref_include_device_info">Inclure les infos de l'appareil</string>
+	<string name="pref_log_line_period">Durée entre 2 lignes de journal</string>
+	<string name="pref_log_line_period_default">200</string>
+	<string name="pref_ran_jellybean_su_update">Mise à jour SU pour Jellybean</string>
+	<string name="pref_show_timestamp">Montrer l'a date'horodatage</string>
+	<string name="pref_text_size">Taille du texte</string>
+	<string name="pref_theme">thème</string>
+	<string name="pref_theme_choice_android_value">Android</string>
+	<string name="pref_theme_choice_att_value">Mon Alerte</string>
+	<string name="pref_theme_choice_dark_value">Sombre</string>
+	<string name="pref_theme_choice_light_value">Clair</string>
+	<string name="pref_theme_choice_sprint_value">Big Yellow</string>
+	<string name="pref_theme_choice_tmobile_value">T-Mo</string>
+	<string name="pref_theme_choice_verizon_value">Big Red</string>
+	<string name="text_size_large_value">L</string>
+	<string name="text_size_medium_value">M</string>
+	<string name="text_size_small_value">S</string>
+	<string name="text_size_xlarge_value">XL</string>
+	<string name="text_size_xsmall_value">XS</string>
+	<string name="about_catlog">A propos de CatLog</string>
+	<string name="add_filter">Ajouter un filtre</string>
+	<string name="add_filter_ellipsis">Ajouter un filtre...</string>
+	<string name="are_you_sure">%d fichier(s) seront supprimés.</string>
+	<string name="as_attachment">Comme pièce-jointe</string>
+	<string name="as_text">Comme texte</string>
+	<string name="checkbox_never_show_partial_select_help">Ne jamais montrer</string>
+	<string name="copied_to_clipboard">Copié dans le presse-papier.</string>
+	<string name="copy_to_clipboard">Copier dans le presse-papier</string>
+	<string name="default_in_parens">(Défaut)</string>
+	<string name="delete_all">Tout supprimer</string>
+	<string name="delete_saved_log">Supprimer les Logs sauvés</string>
+	<string name="delimiter">,</string>
+	<string name="dialog_compiling_log">Compilation du log...</string>
+	 <string name="dialog_for_donate">Pour <b>des couleurs bonus</b>, téléchargez\n
+		 <a href="market://details?id=com.nolanlawson.logcat.donate">CatLog Donateur</a>
+	 </string>
+	<string name="dialog_for_widget">Pour un <b>widget</b>,\nbouton Accueil → Appui\nLong → Widgets</string>
+	<string name="dialog_initializing_recorder">Préparation de l\'enregistreur...</string>
+	<string name="dialog_loading_updates">Chargement des mises à jour...</string>
+	<string name="dialog_partial_select_explanation">1. Sélectionnez la <b>première</b> ligne.\n2. Sélectionnez alors la <b>dernière</b> ligne.</string>
+	<string name="dialog_please_wait">Veuillez patienter</string>
+	<string name="enter_filename">Entrer le nom du fichier à sauver :</string>
+	<string name="enter_good_filename">Veuillez entrer un nom valide.</string>
+	<string name="files_deleted">%d fichier(s) supprimés.</string>
+	<string name="filter_choice">Chercher par</string>
+	<string name="filter_choice_pid">Processus ID</string>
+	<string name="filter_choice_tag">Tagger</string>
+	<string name="filter_text_colon">Filtrer le texte :</string>
+	<string name="first_run_pref_summary">Montrer à nouveau le message d\'introduction.</string>
+	<string name="first_run_pref_title">Ràz de l\'introduction</string>
+	<string name="first_run_title">Bienvenue dans CatLog !</string>
+	<string name="log_cleared">Logs vidés. Maintenez appuyé pour recharger</string>
+	<string name="log_level">Niveau de log</string>
+	<string name="log_level_colon">Niveau de log :</string>
+	<string name="log_recording_started">Enregistrement du log démarré.</string>
+	<string name="log_saved">Log sauvegardé.</string>
+	<string name="main_edit_text_hint">Chercher logs</string>
+	<string name="manage_saved_logs">Gérer les logs sauvegardés.</string>
+	<string name="menu_title_partial_select">Sélection partielle</string>
+	<string name="no_saved_logs">Aucun fichier de logs trouvé.</string>
+	<string name="notification_subtext">Sélectionner pour arrêter l\'enregistrement.</string>
+	<string name="notification_ticker">L\'enregistrement du log a démarré</string>
+	<string name="notification_title">Enregistrement du log en cours</string>
+	<string name="open">Ouvrir</string>
+	<string name="open_log">Ouvrir Log</string>
+	<string name="play_x1_log">Lire %s log</string>
+	<string formatted="false" name="play_x2_log">Lire %s, %s</string>
+	<string name="play_x3_log">Lire tous les logs</string>
+	<string name="pref_buffer_choice_events">Evénements</string>
+	<string name="pref_buffer_choice_main">Principal</string>
+	<string name="pref_buffer_choice_radio">Radio</string>
+	<string name="pref_buffer_none_checked_error">Veuillez cocher au moins un tampon.</string>
+
+	<string name="pref_buffer_title">Tampon(s) de Log</string>
+	<string name="pref_cat_advanced">Avancé</string>
+	<string name="pref_cat_appearance">Apparence</string>
+	<string name="pref_cat_configuration">Configuration</string>
+	<string name="pref_default_log_level_summary">Niveau de log au démarrage, à l\'ouverture de fichiers, et\nlors de l\'enregistrement (%s)</string>
+	<string name="pref_default_log_level_title">Niveau de log par défaut</string>
+	<string formatted="false" name="pref_display_limit_summary">Afficher seulement les dernier %d logs,\npour éviter les OutOfMemoryErrors. (Default: %s)</string>
+ 	<string name="pref_display_limit_title">Limite d\'affichage des logs</string>
+	<string name="pref_expanded_by_default_summary">Montrer les logs texte en entier par défaut.</string>
+	<string name="pref_expanded_by_default_title">Déveloper par défaut</string>
+	<string name="pref_log_line_period_error">Veuillez entrer un nombre entier compris entre 1 et 1000.</string>
+	<string formatted="false" name="pref_log_line_period_summary">À l\'enregistrement, écrire sur la Carte SD\nchaque(s) %d ligne(s) (défaut : %s).</string>
+	<string name="pref_log_line_period_title">Période d\'écriture</string>
+	<string name="pref_show_timestamp_summary">Afficher les ID des processus et l\'horodatage\nsi développé.</string>
+	<string name="pref_show_timestamp_title">Afficher Pid et Horodatage</string>
+	<string name="pref_text_size_title">Taille du Texte</string>
+	<string name="pref_theme_choice_android_name">Android</string>
+	<string name="pref_theme_choice_att_name">Mon Alerte</string>
+	<string name="pref_theme_choice_dark_name">Sombre</string>
+	<string name="pref_theme_choice_light_name">Clair</string>
+	<string name="pref_theme_choice_sprint_name">Big Yellow</string>
+	<string name="pref_theme_choice_tmobile_name">T-Mo</string>
+	<string name="pref_theme_choice_verizon_name">Big Red</string>
+	<string name="pref_theme_summary_free">Requiert la version Pro</string>
+	<string name="pref_theme_title">Couleurs</string>
+	<string name="record_log">Enregistrer le Log</string>
+	<string name="recording_in_progress">Enregistrement en cours.</string>
+	<string name="save_as">Enregistrer sous...</string>
+	<string name="save_log">Enregistrer le log</string>
+	<string name="sd_card_not_found">Carte SD introuvable.</string>
+	<string name="select_logs_to_delete">Sélectionner les logs à effacer. </string>
+	<string name="send_as_attachment">Envoyer comme pièce-jointe</string>
+	<string name="send_as_text">Envoyer comme texte</string>
+	<string name="send_log">Envoyer</string>
+	<string name="send_log_title">Envoyer le log</string>
+	<string name="simultaneous">(en simultané)</string>
+	<string name="start_recording_log">Enregistrer</string>
+	<string name="stop_recording_log">Arrêter l\'enregistrement</string>
+	<string name="subject_log_report">Rapport des logs</string>
+	<string name="text_filter_ellipsis">Filtre...</string>
+	<string name="text_filter_text">Filtrer le texte</string>
+	<string name="text_include_device_info">Inclure les informations de l\'appareil</string>
+	<string name="text_size_large_name">Grand (14pt)</string>
+	<string name="text_size_medium_name">Moyen (12pt)</string>
+	<string name="text_size_small_name">Petit (10pt)</string>
+	<string name="text_size_xlarge_name">Très grand (16pt)</string>
+	<string name="text_size_xsmall_name">Très petit (8pt)</string>
+	<string name="title_filter">Filtre</string>
+	<string name="title_filters">Filtres</string>
+	<string formatted="false" name="toast_invalid_display_limit">Entrez un nombre valide entre\n%d et %d.</string>
+	<string name="toast_invalid_level">Nom de niveau invalide : %s</string>
+	<string name="toast_invalid_selection">Sélection invalide. Essayez à nouveau s.v.p.</string>
+	<string name="toast_log_truncated">Log trop grand : affiche les %d dernières lignes.</string>
+	<string name="toast_no_root">Impossible d\'obtenir le root.\nVous ne pourrez voir que les logs propres à CatLog.</string>
+	<string name="toast_pref_changed_restart_required">Paramètres mis à jour. Relancez CatLog pour voir\nles changements.</string>
+	<string name="toast_request_root">CatLog nécessite un accès root (SU) pour lire les logs.</string>
+	<string name="toast_started_select_partial">Sélection partielle activée</string>
+	<string name="unable_to_save_log">Impossible de sauvegarder le log. Avez-vous entré un nom de fichier valide?</string>
+	<string name="version">Version %s</string>
+	<string name="widget_recording_in_progress">Enregistrement...</string>
+	<string name="widget_start_recording">Enregistrer le log</string>
+
+	<!-- App Backup -->
+	<string-array name="arrRegions">
+		<item>Etats Unis</item>
+		<item>Etats Unis (Oregon)</item>
+		<item>Etats Unis (Californie du nord)</item>
+		<item>Union Européenne (Irlande)</item>
+		<item>Asie Pacifique (Singapour)</item>
+		<item>Asie Pacifique (Tokyo)</item>
+		<item>Amérique du sud (Sao Paulo)</item>
+	</string-array>
+
+	<!-- Per app setting frameworks and modules -->
+	<string name="tabInstall">Framework</string>
+	<string name="tabModules">Modules</string>
+	<string name="installerDescription">Ici vous pouvez installer le framework <b>Xposed</b>. C'est la base pour les modules qui changent l'apparence et le comportement de votre téléphone. Pour plus d'informations, merci de consulter <a href="http://forum.xda-developers.com/showthread.php?t=1574401">ce lien</a>.</string>
+	<string name="install">Installer/Mettre à jour</string>
+	<string name="uninstall">Désinstaller (restaurer app_process)</string>
+	<string name="installedVersion">actif</string>
+	<string name="none">---</string>
+	<string name="latestVersion">fournie</string>
+	<string name="cleanup">Nettoyage (suppression complète du framework)</string>
+	<string name="versions">Versions :</string>
+	<string name="soft_reboot">Soft Reboot</string>
+	<string name="reboot">Reboot</string>
+	<string name="areyousure">Êtes-vous sûr ?</string>
+	<string name="module_is_not_activated_yet">Le module Xposed n\'est pas encore activé</string>
+	<string name="module_empty_description">(pas de description)</string>
+	<string name="module_no_ui">Ce module n\'a pas d\'interface utilisateur</string>
+	<string name="no_xposed_modules_found">Aucun module Xposed trouvé !</string>
+	<string name="xposed_module_list_updated">Liste des modules Xposed mise à jour\nLes changements seront actifs au redémarrage</string>
+	<string name="warning_xposed_min_version">Ce module requiert une version plus récente de Xposed (%s) et ne peut pas être activé.</string>
+	<string name="phone_not_compatible">Xposed n\'est pas (encore) compatible avec le SDK Android %1$d ou avec l\'architecture de votre processeur (%2$s).</string>
+	<string name="not_tested_but_compatible">Xposed n\'a pas été testé avec le SDK Android version %d, mais il semble être compatible. Vous pouvez essayer de l\'installer à vos risques et périls.</string>
+	<string name="no_min_version_specified">Ce module ne spécifie pas la version Xposed dont il a besoin.</string>
+	<string name="warning_min_version_too_low">Ce module a été créé pour Xposed version %1$s, mais suite à des changements incompatible dans la version %2$s, il a été désactivé. </string>
+
+	<string name="app_process" translatable="false">app_process</string>
+	<string name="xposedbridge" translatable="false">XposedBridge.jar</string>
+	<string name="translator">Traducteur</string>
+	<string name="about_app">Un module 
+		<a href="http://forum.xda-developers.com/showthread.php?t=1574401">Xposed</a>
+		par
+		<a href="http://forum.xda-developers.com/member.php?u=4419114">rovo89</a>
+		 et <a href="http://forum.xda-developers.com/member.php?u=4322181">Tungstwenty</a>.
+		Vous pouvez utiliser
+		<a href="http://forum.xda-developers.com/showthread.php?t=2012770">ce lien</a>
+		toute question ou suggestion.
+	</string>
+
+	<!-- Fonts installer -->
+	<string name="done">Fait</string>
+	<string name="font_installer_desc">Toucher la police que vous souhaitez installer!</string>
+	<string name="font_method">Choisissez la méthode</string>
+	<string name="font_installed">La police choisie a été installée. Vous devez rebooter votre téléphone pour voir les changements.\n\nVoulez-vous rebooter maintenant ?</string>
+	<string name="attenction">Attention</string>
+	<string name="font_message">Installeur de police vous permet d'installer d'un seul toucher, une police parmi celles listées ici.\n\nQuand vous touchez une police de la liste, un message vous demandera de choisir la méthode d'installation. Gardez à l'esprit que si vous choisissez la mauvaise méthode, vous risquez un BootLoop!\n\nCependant le choix n'est pas si dur. Vous devez juste choisir votre ROM et sélectionner si elle est en AOSP ou en Stock.</string>
+	<string name="gotit">Je l'ai eu</string>
+
+	<!-- Private Browser -->
+	<string name="pref_images">pref_images</string>
+	<string name="pref_javascript">pref_javascript</string>
+	<string name="errorHtml"><b>Désolé, mais il y a eu un problème...</b></string>
+	<string name="torInactive">connection data Anonyme non lancée</string>
+	<string name="torConnecting">Connection...</string>
+	<string name="starttor">Ouvrir préférences</string>
+	<string name="search_label">Navigateur</string>
+	<string name="search_hint">Adresse Web ou recherche</string>
+	<string name="search_button_text">Go</string>
+	<string name="default_homepage">http://igio90.net/anonymous/</string>
+	<string name="pref_homepage">pref_homepage</string>
+	<string name="pref_clearcache">pref_clearcache</string>
+	<string name="internal_web_url">http://anon/</string>
+	<string name="torProxyNotInstalled">Navigateur Anonyme nécessite l'application Orbot.</string>
+	<string name="cookiesBlockedFirstLine">Cookies</string>
+	<string name="cookiesBlockedSecondLine">Bloqué</string>
+	<string name="allCookiesAreBlocked">Tous les cookies sont bloqués. Vous pouvez changer cela dans les paramètres.</string>
+	<string name="acceptCookiesFrom">Accepter les cookies de:</string>
+	<string name="willAddToWhitelist">Cocher ces sites le ajoutera à votre WhiteListe de cookies.</string>
+	<string name="pref_proxy_group">Paramètres de serveur Proxy</string>
+	<string name="pref_proxy_host">Hôte Proxy</string>
+	<string name="pref_proxy_host_summary">le nom d'hôte ou l'adresse IP du serveur proxy HTTP</string>
+	<string name="pref_proxy_port">Port Proxy</string>
+	<string name="pref_proxy_port_summary">le port du serveur proxy HTTP</string>
+	<string name="pref_user_agent_summary">Changer l'identification du navigateur</string>
+	<string name="pref_user_agent_title">User Agent</string>
+	<string name="menu_go">Go</string>
+	<string name="menu_stop">Stop</string>
+	<string name="menu_forward">Suivant</string>
+	<string name="menu_reload">Recharger</string>
+	<string name="menu_homepage">Accueil</string>
+	<string name="set_locale_title">Langue</string>
+	<string name="set_locale_summary">Choisir la langue par défaut du Navigateur Anonyme</string>
+	<string name="load_images">Charger les images</string>
+	<string name="display_images_on_web_pages">Afficher les images sur les pages Web</string>
+	<string name="enable_javascript">Activer JavaScript</string>
+	<string name="set_homepage">Choisir page d'Accueil</string>
+	<string name="clear_cache">Purger le cache</string>
+	<string name="clear_cache_summary">Purge toutes les pages en cache</string>
+	<string name="clear_cache_message">Le cache va être purgé.</string>
+	<string name="ref_title">Envoyer les informations de référence</string>
+	<string name="ref_summary">Les informations de référence peuvent exposer votre historique de navigation</string>
+	<string name="history_title">Purger l'Historique</string>
+	<string name="history_summary">Purge tout le contenu d'historique de votre navigateur. Attention: cela ne peut être annulé.</string>
+	<string name="clear_cookies_title">Purger les cookies</string>
+	<string name="clear_cookies_summary">Purge tous les cookies du navigateur</string>
+	<string name="clear_cookies_message">Les cookies vont être purgés.</string>
+	<string name="cookie_behave_title">Comportement pour les cookies</string>
+	<string name="cookie_behave_summary">Accepter ou bloquer les cookies</string>
+	<string name="cookie_whitelist_title">WhiteList de cookies</string>
+	<string name="cookie_whitelist_summary">Choisir les sites web dont il faut accepter les cookies</string>
+	<string name="add_site_whitelist">Ajouter un site à la WhiteList</string>
+	<string name="title_download_manager">Gestionnaire de téléchargements</string>
+	<string name="prompt_would_you_like_to_download_this_file_">Voulez-vous télécharger ce fichier?</string>
+	<string name="prompt_do_you_want_to_open_this_file_for_viewing_">Voulez-vous voir le contenu de ce fichier?</string>
+	<string name="orweb_proxy_error">Navigateur Anonyme ne peut pas configurer les paramètres de proxy sur votre appareil.</string>
+	<string name="warning_weak_crypto">Attention: Ce service utilise un certificat qui AFFAIBLIT la cryptographie. Merci de demander à l'administrateur d'upgrader.</string>
+	<string name="warning_pinned_cert_mismatch">"Le certificat fourni ne correspond pas au certificat CHOISI: "</string>
+	<string name="error_signature_chain_verification_failed">"Echec de la vérification de la signature de "</string>
+	<string name="error_could_not_find_cert_issuer_certificate_in_chain">"Impossible de trouver le fournisseur du certificat dans la chaine: "</string>
+	<string name="error_could_not_find_root_ca_issuer_certificate_in_chain">Impossible de trouver le fournisseur du certificat Root CA dans la chaine</string>
+	<string name="could_not_find_self_signed_certificate_in_chain">Impossible de trouver le certificat auto-signé dans la chaine</string>
+	<string name="error_domain_check_failed">Echec de la vérification du Domaine</string>
+	<string name="error_does_not_contain_">" ne contient pas "</string>
+	<string name="error_problem_access_local_root_ca_store">problème d'accès au magasin local ROOT CA</string>
+	<string name="install_orbot_">Installer Orbot?</string>
+	<string name="market_orbot">market://search?q=pname:org.torproject.android</string>
+	<string name="you_must_have_orbot">Vous devez avoir installé et activé Orbot pour l'utiliser pour le trafic proxy. Voulez-vous l'installer depuis Google Play?</string>
+	<string name="start_orbot_">Démarrer Orbot?</string>
+	<string name="orbot_doesn_t_appear_to_be_running_would_you_like_to_start_it_up_and_connect_to_tor_">Orbot n'est pas lancé. Voulez-vous le lancer et vous connecter à Tor?</string>
+	<string name="secure_connection_active_">"Connection Sécurisée Active: "</string>
+
+</resources>
