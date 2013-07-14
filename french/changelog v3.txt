@@ -1,0 +1,22 @@
+Changelog v2.0.0:
+
+Menu refactor:
+- Ajouté Panneau de personalisation Système
+- Ajouté panneau 'A propos'
+
+Contenu gratuit:
+- Outils Système: Ajouté Navigateur anonyme, permet une navigation transparente utilisant TOR et la possibilité de définir l'Agent Utilisateur et plus...
+- Réparé linstallation du module de préférences Application
+- Réparé les accès root de plusieurs utilitaires
+
+Contenu PRO (en plus des changements de contenu gratuits):
+- Personalisation Système: Ajouté l'installation de Police en un clic avec les 2 méthodes (Rom AOSP ou STOCK)
+- Plus de tweaks d'Android Tweaker!
+- Réparé l'export de données de sauvegarde
+
+Changelog v3.0.0:
+
+- Nouveaux icônes et nouvelles couleurs pour lanceurs
+- Ajouté thèmeur d'icônes (XPosed) et pack d'icônes choisis
+- Ajouté de nouvelles polices
+- Réparé quelques problèmes avec la version gratuite 
