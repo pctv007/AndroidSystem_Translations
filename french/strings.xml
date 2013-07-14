@@ -72,7 +72,7 @@
   <string name="backup">Sauvegarde</string>
   <string name="wipe_system">Effacer Sytem</string>
   <string name="wipe_data">Effacer Data</string>
-  <string name="wipe_caches">Effacer Cache &amp; Dalvik</string>
+  <string name="wipe_caches">Effacer Cache et Dalvik</string>
   <string name="fix_permissions">Fixer les permissions</string>
   <string name="alert_reboot_title">Choisir les actions et installer</string>
   <string name="alert_reboot_now">Installer maintenant</string>
@@ -487,7 +487,7 @@
   <string formatted="false" name="pref_log_line_period_summary">À l\'enregistrement, écrire sur la Carte SD\nchaque(s) %d ligne(s) (défaut : %s).</string>
   <string name="pref_log_line_period_title">Période d\'écriture</string>
   <string name="pref_show_timestamp_summary">Afficher les ID des processus et l\'horodatage\nsi développé.</string>
-  <string name="pref_show_timestamp_title">Afficher Pid &amp; Horodatage</string>
+  <string name="pref_show_timestamp_title">Afficher Pid et Horodatage</string>
   <string name="pref_text_size_title">Taille du Texte</string>
   <string name="pref_theme_choice_android_name">Android</string>
   <string name="pref_theme_choice_att_name">Mon Alerte</string>
@@ -567,7 +567,7 @@
   <string name="phone_not_compatible">Xposed n\'est pas (encore) compatible avec le SDK Android %1$d ou avec l\'architecture de votre processeur (%2$s).</string>
   <string name="not_tested_but_compatible">Xposed n\'a pas été testé avec le SDK Android version %d, mais il semble être compatible. Vous pouvez essayer de l\'installer à vos risques et périls.</string>
   <string name="no_min_version_specified">Ce module ne spécifie pas la version Xposed dont il a besoin.</string>
-  <string name="warning_min_version_too_low">Ce module fut créer pour Xposed version %1$s, mais dû à des changements incompatible dans la version %2$s, il a été désactivé. </string>
+  <string name="warning_min_version_too_low">Ce module a été créé pour Xposed version %1$s, mais suite à des changements incompatible dans la version %2$s, il a été désactivé. </string>
   <string name="translator"></string>
   <string name="about_app"></string>
 </resources>
